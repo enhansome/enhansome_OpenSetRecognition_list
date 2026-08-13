@@ -1,0 +1,1033 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Set Recognition"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Deep Neural Network-based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Large-Scale Open-Set Classification Protocols for ImageNet",
+          "description": ". Andres Palechor, Annesha Bhoumik, Manuel Günther. (WACV 2023) [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-15T14:03:17Z",
+            "owner": "AIML-IfI",
+            "repo": "openset-imagenet",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Learning-Based Material Characterization Using FMCW Radar With Open-Set Recognition Technique",
+          "description": ". Salah Abouzaid, Timo Jaeschke, Simon Kueppers, Jan Barowski, Nils Pohl. (IEEE TMTT 2023). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-05T10:01:11Z",
+            "owner": "Salah-Abouzaid",
+            "repo": "MaterialCharML",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "2023"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open-Set Recognition: A Good Closed-Set Classifier is All You Need",
+          "description": ". Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman. (ICLR 2022). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-20T12:02:38Z",
+            "owner": "sgvaze",
+            "repo": "osr_closed_set_all_you_need",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Class-specific semantic reconstruction for open set recognition",
+          "description": ". Hongzhi Huang, Yu Wang, Qinghua Hu, Ming-Ming Cheng. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI 2022). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-01T05:17:28Z",
+            "owner": "xyzedd",
+            "repo": "CSSR",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTAL: Towards Open Set Temporal Action Localization",
+          "description": ". Wentao Bao, Qi Yu, Yu Kong. (CVPR 2022). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-04T14:32:03Z",
+            "owner": "Cogito2012",
+            "repo": "OpenTAL",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Difficulty-Aware Simulator for Open Set Recognition",
+          "description": ". WonJun Moon, Junho Park, Hyun Seok Seong, Cheol-Ho Cho, Jae-Pil Heo. (ECCV 2022). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-28T16:11:29Z",
+            "owner": "wjun0830",
+            "repo": "Difficulty-Aware-Simulator",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition",
+          "description": ". Matej Grcić, Petra Bevandić, Siniša Šegvić. (ECCV 2022). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-25T09:31:09Z",
+            "owner": "matejgrcic",
+            "repo": "DenseHybrid",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Open Set 3D Learning: A Benchmark on Object Point Clouds",
+          "description": ". Antonio Alliegro, Francesco Cappio Borlino, Tatiana Tommasi. (ArXiv 2022). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-27T01:05:57Z",
+            "owner": "antoalli",
+            "repo": "3D_OS",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSSGAN: Open-Set Semi-Supervised Image Generation",
+          "description": ". Kai Katsumata, Duc Minh Vo, Hideki Nakayama. (CVPR 2022). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-02T03:23:54Z",
+            "owner": "raven38",
+            "repo": "OSSGAN",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unseen Classes at a Later Time? No Problem",
+          "description": ". Hari Chandana Kuchibhotla, Sumitra S Malagi, Shivam Chandhok, Vineeth N Balasubramanian. (CVPR 2022). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-07T08:11:10Z",
+            "owner": "sumitramalagi",
+            "repo": "Unseen-classes-at-a-later-time",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Set Semi-Supervised Object Detection",
+          "description": ". Yen-Cheng Liu, Chih-Yao Ma, Xiaoliang Dai, Junjiao Tian, Peter Vajda, Zijian He, Zsolt Kira. (ECCV 2022). [code].",
+          "children": []
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Adversarial Reciprocal Points Learning for Open Set Recognition",
+          "description": ". Guangyao Chen, Peixi Peng, Xiangqian Wang, Yonghong Tian. (TPAMI 2021). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-30T11:01:38Z",
+            "owner": "gary23ai",
+            "repo": "ARPL",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Counterfactual Zero-Shot and Open-Set Visual Recognition",
+          "description": ". Zhongqi Yue, Tan Wang, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua. (CVPR 2021). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-01T13:29:38Z",
+            "owner": "yue-zhongqi",
+            "repo": "gcm-cf",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenGAN: Open-Set Recognition via Open Data Generation",
+          "description": ". Shu Kong, Deva Ramanan. (ICCV 2021). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-07-27T14:44:59Z",
+            "owner": "aimerykong",
+            "repo": "OpenGAN",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evidential Deep Learning for Open Set Action Recognition",
+          "description": ". Wentao Bao, Qi Yu, Yu Kong. (ICCV 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-04T04:38:25Z",
+            "owner": "Cogito2012",
+            "repo": "DEAR",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers",
+          "description": ". Kuniaki Saito, Donghyun Kim, Kate Saenko. (ArXiv 2021). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-08T20:30:40Z",
+            "owner": "VisionLearningGroup",
+            "repo": "OP_Match",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conditional Variational Capsule Network for Open Set Recognition",
+          "description": ". Yunrui Guo, Guglielmo Camporese, Wenjing Yang, Alessandro Sperduti, Lamberto Ballan. (ICCV 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-01T02:24:00Z",
+            "owner": "guglielmocamporese",
+            "repo": "cvaecaposr",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large Scale Open-Set Deep Logo Detection",
+          "description": ". Muhammet Bastan, Hao-Yu Wu, Tian Cao, Bhargava Kota, Mehmet Tek. (ArXiv 2021). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-13T01:51:24Z",
+            "owner": "mubastan",
+            "repo": "osld",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Overlooked Elephant of Object Detection: Open Set",
+          "description": ". Akshay Raj Dhamija, Manuel Günther, Jonathan Ventura, Terrance E. Boult. (WACV 2020) [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-24T18:34:36Z",
+            "owner": "Vastlab",
+            "repo": "Elephant-of-object-detection",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conditional Gaussian Distribution Learning for Open Set Recognition",
+          "description": ", Xin Sun, Zhenning Yang, Chi Zhang, Guohao Peng, Keck-Voon Ling. (CVPR 2020). [code].",
+          "children": []
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Large-Scale Long-Tailed Recognition in an Open World",
+          "description": ", ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (CVPR, Oral, 2019).[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-16T06:28:09Z",
+            "owner": "zhmiao",
+            "repo": "OpenLongTailRecognition-OLTR",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer",
+          "description": ", Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (ICCV, 2019). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T21:20:22Z",
+            "owner": "xhp-hust-2018-2011",
+            "repo": "S-DCNet",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?",
+          "description": ", Martin Mundt, Iuliia Pliushch, Sagnik Majumder, Visvanathan Ramesh. (ICCVW, 2019). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-11T16:40:50Z",
+            "owner": "MrtnMndt",
+            "repo": "Deep_Openset_Recognition_through_Uncertainty",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Transfer Learning for Multiple Class Novelty Detection",
+          "description": ", Pramuditha Perera, Vishal M. Patel. (CVPR, 2019). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-12T14:33:06Z",
+            "owner": "PramuPerera",
+            "repo": "TransferLearningNovelty",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Set Learning with Counterfactual Images",
+          "description": ", Neal L, Olson M, Fern X, et al. (ECCV, 2018). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-01T22:18:12Z",
+            "owner": "lwneal",
+            "repo": "counterfactual-open-set",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reducing Network Agnostophobia",
+          "description": ", Akshay Raj Dhamija, Manuel Günther, Terrance E. Boult. (NeurIPS 2018). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-12-19T03:37:28Z",
+            "owner": "Vastlab",
+            "repo": "Reducing-Network-Agnostophobia",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The extreme value machine",
+          "description": ", Rudd E M, Jain L P, Scheirer W J, et al. (PAMI, 2018). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-30T16:25:26Z",
+            "owner": "EMRResearch",
+            "repo": "ExtremeValueMachine",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open category detection with PAC guarantees",
+          "description": ", Si Liu, Risheek Garrepalli, Thomas G. Dietterich, Alan Fern, Dan Hendrycks. (ICML, 2018). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-08-26T00:10:42Z",
+            "owner": "liusi2019",
+            "repo": "ocd",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DOC: Deep open classification of text documents",
+          "description": ", Shu L, Xu H, Liu B. Doc. (arXiv, 2017). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-13T05:23:36Z",
+            "owner": "alexander-rakhlin",
+            "repo": "CNN-for-Sentence-Classification-in-Keras",
+            "stars": 593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-category classification by adversarial sample generation",
+          "description": ", Yu Y, Qu W Y, Li N, et al. (IJCAI, 2017). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-06-07T11:24:22Z",
+            "owner": "eyounx",
+            "repo": "ASG",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "2017"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Traditional Machine Learning Methods-based"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Probability models for open set recognition",
+          "description": ", Scheirer W J, Jain L P, Boult T E. (PAMI, 2014). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-12-29T23:38:24Z",
+            "owner": "ljain2",
+            "repo": "libsvm-openset",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-class open set recognition using probability of inclusion",
+          "description": ", Jain L P, Scheirer W J, Boult T E. (ECCV, 2014). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2014-12-29T23:38:24Z",
+            "owner": "ljain2",
+            "repo": "libsvm-openset",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "2014"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Set Learning Theory"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Out-of-Distribution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SSD: A Unified Framework for Self-Supervised Outlier Detection",
+          "description": ", Vikash Sehwag, Mung Chiang, Prateek Mittal. (ICLR 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-16T05:08:14Z",
+            "owner": "inspire-group",
+            "repo": "SSD",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrossNorm and SelfNorm for Generalization under Distribution Shifts",
+          "description": ". Zhiqiang Tang, Yunhe Gao, Yi Zhu, Zhi Zhang, Mu Li, Dimitris Metaxas. (ICCV 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-10T22:27:16Z",
+            "owner": "amazon-science",
+            "repo": "crossnorm-selfnorm",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space",
+          "description": ". Rui Huang, Yixuan Li. (CVPR 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-28T22:55:02Z",
+            "owner": "deeplearning-wisc",
+            "repo": "large_scale_ood",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain",
+          "description": ". Guangyao Chen, Peixi Peng, Li Ma, Jia Li, Lin Du, Yonghong Tian. (ICCV 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-15T05:17:26Z",
+            "owner": "gary23ai",
+            "repo": "APR",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantically Coherent Out-of-Distribution Detection",
+          "description": ". Jingkang Yang, Haoqi Wang, Litong Feng, Xiaopeng Yan, Huabin Zheng, Wayne Zhang, Ziwei Liu. (ICCV 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-21T06:12:46Z",
+            "owner": "Jingkang50",
+            "repo": "ICCV21_SCOOD",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction",
+          "description": ". Patrick Dendorfer, Sven Elflein, Laura Leal-Taixe. (ICCV 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-28T11:37:44Z",
+            "owner": "selflein",
+            "repo": "MG-GAN",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entropy Maximization and Meta Classification for Out-of-Distribution Detection in Semantic Segmentation",
+          "description": ". Robin Chan, Matthias Rottmann, Hanno Gottschalk. (ICCV 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-02T12:33:55Z",
+            "owner": "robin-chan",
+            "repo": "meta-ood",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MOOD: Multi-level Out-of-distribution Detection",
+          "description": ". Ziqian Lin, Sreya Dutta Roy, Yixuan Li. (CVPR 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-04T20:24:11Z",
+            "owner": "deeplearning-wisc",
+            "repo": "MOOD",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Representations that Support Robust Transfer of Predictors",
+          "description": ". Yilun Xu, Tommi Jaakkola. (ArXiv 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-07T03:54:44Z",
+            "owner": "Newbeeer",
+            "repo": "TRM",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Online Continual Learning With Natural Distribution Shifts: An Empirical Study With Visual Data",
+          "description": ". Zhipeng Cai, Ozan Sener, Vladlen Koltun. (ICCV 2021). [code]",
+          "children": []
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep Evidential Regression",
+          "description": ", Alexander Amini, Wilko Schwarting, Ava Soleimany, Daniela Rus. (NeurIPS 2020). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-31T17:51:42Z",
+            "owner": "aamini",
+            "repo": "evidential-deep-learning",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances",
+          "description": ", Jihoon Tack, Sangwoo Mo, Jongheon Jeong, Jinwoo Shin. (NeurIPS 2020). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-19T11:01:02Z",
+            "owner": "alinlab",
+            "repo": "CSI",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization",
+          "description": ". Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, Justin Gilmer. (ArXiv 2020). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-23T00:08:09Z",
+            "owner": "hendrycks",
+            "repo": "imagenet-r",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature Space Singularity for Out-of-Distribution Detection",
+          "description": ", Haiwen Huang, Zhihan Li, Lulu Wang, Sishuo Chen, Bin Dong, Xinyu Zhou. (AAAIW 2020). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-15T09:58:33Z",
+            "owner": "megvii-research",
+            "repo": "FSSD_OoD_Detection",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Out-of-distribution Detection for Neural Networks",
+          "description": ", Jiefeng Chen, Yixuan Li, Xi Wu, Yingyu Liang, Somesh Jha. (arXiv 2020) [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-12T16:14:24Z",
+            "owner": "jfc43",
+            "repo": "robust-ood-detection",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Background Data Resampling for Outlier-Aware Classification",
+          "description": ", Yi Li, Nuno Vasconcelos. (CVPR 2020) [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-27T01:16:25Z",
+            "owner": "JerryYLi",
+            "repo": "bg-resample-ood",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Likelihood Ratios for Out-of-Distribution Detection",
+          "description": ". Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (NeurIPS, 2019). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T12:20:59Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Anomaly Detection with Outlier Exposure",
+          "description": ", Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (ICLR, 2019). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-09T01:31:17Z",
+            "owner": "hendrycks",
+            "repo": "outlier-exposure",
+            "stars": 576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evidential Deep Learning to Quantify Classification Uncertainty",
+          "description": ". Murat Sensoy, Lance Kaplan, Melih Kandemir. (NeurIPS 2019). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-02T20:46:09Z",
+            "owner": "dougbrion",
+            "repo": "pytorch-classification-uncertainty",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty",
+          "description": ". Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (NeurIPS 2019). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-29T17:42:13Z",
+            "owner": "hendrycks",
+            "repo": "ss-ood",
+            "stars": 269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem",
+          "description": ". Matthias Hein, Maksym Andriushchenko, Julian Bitterwolf. (CVPR 2019). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-14T13:05:58Z",
+            "owner": "max-andr",
+            "repo": "relu_networks_overconfident",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Outlier Exposure with Confidence Control for Out-of-Distribution Detection",
+          "description": ". Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, Jiamian Wang. (arXiv, 2019). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-03-13T18:58:53Z",
+            "owner": "nazim1021",
+            "repo": "OOD-detection-using-OECC",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "2019"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks",
+          "description": ". Shiyu Liang, Yixuan Li, R. Srikant. (ICLR, 2018). [code].",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-10-12T21:32:16Z",
+            "owner": "facebookresearch",
+            "repo": "odin",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks",
+          "description": ". Kimin Lee, Kibok Lee, Honglak Lee, Jinwoo Shin. (NeurIPS, 2018). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-13T16:27:08Z",
+            "owner": "pokaxpoka",
+            "repo": "deep_Mahalanobis_detector",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples",
+          "description": ". Kimin Lee, Honglak Lee, Kibok Lee, Jinwoo Shin. (ICLR, 2018). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-04-08T02:30:13Z",
+            "owner": "alinlab",
+            "repo": "Confident_classifier",
+            "stars": 182
+          }
+        }
+      ],
+      "title": "2018"
+    },
+    {
+      "description": "need to survey more..",
+      "items": [],
+      "title": "Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open Set Domain Adaptation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "On the Effectiveness of Image Rotation for Open Set Domain Adaptation",
+          "description": ", Silvia Bucci, Mohammad Reza Loghmani, Tatiana Tommasi. (ECCV 2020). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-24T22:18:28Z",
+            "owner": "silvia1993",
+            "repo": "ROS",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adversarial Network with Multiple Classifiers for Open Set Domain Adaptation",
+          "description": ", Tasfia Shermin, Guojun Lu, Shyh Wei Teng, Manzur Murshed, Ferdous Sohel. (IEEE TMM 2020). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-01-31T10:15:56Z",
+            "owner": "tasfia",
+            "repo": "DAMC",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mind the Gap: Enlarging the Domain Gap in Open Set Domain Adaptation",
+          "description": ", Dongliang Chang, Aneeshan Sain, Zhanyu Ma, Yi-Zhe Song, Jun Guo. (arXiv 2020). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-20T14:04:14Z",
+            "owner": "PRIS-CV",
+            "repo": "Mutual-to-Separate",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "2020"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Open World Recognition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Opening Up Open-World Tracking",
+          "description": ", Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (CVPR 2022). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-03T06:21:21Z",
+            "owner": "JonathonLuiten",
+            "repo": "TrackEval",
+            "stars": 1253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OW-DETR: Open-world Detection Transformer",
+          "description": ", Akshita Gupta, Sanath Narayan, K J Joseph, Salman Khan, Fahad Shahbaz Khan, and Mubarak Shah. (CVPR 2022). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-04T12:38:21Z",
+            "owner": "akshitac8",
+            "repo": "OW-DETR",
+            "stars": 263
+          }
+        }
+      ],
+      "title": "2022"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Towards Open World Object Detection",
+          "description": ", K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian. (CVPR 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-19T08:59:57Z",
+            "owner": "JosephKJ",
+            "repo": "OWOD",
+            "stars": 1075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Unified Objective for Novel Class Discovery",
+          "description": ", Enrico Fini, Enver Sangineto, Stéphane Lathuilière, Zhun Zhong, Moin Nabi, Elisa Ricci. (ICCV 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-22T15:03:02Z",
+            "owner": "DonkeyShot21",
+            "repo": "UNO",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neighborhood Contrastive Learning for Novel Class Discovery",
+          "description": ", Zhun Zhong, Enrico Fini, Subhankar Roy, Zhiming Luo, Elisa Ricci, Nicu Sebe. (CVPR 2021). [code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-09T12:35:06Z",
+            "owner": "zhunzhong07",
+            "repo": "NCL",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "2021"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Stargazers over time"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:10.838Z",
+    "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
+    "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
+    "enhanced_repository": "enhansome/enhansome_OpenSetRecognition_list",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open Set Recognition list with stars"
+  }
+}
