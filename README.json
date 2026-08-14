@@ -182,7 +182,7 @@
             "last_commit": "2023-06-30T11:01:38Z",
             "owner": "gary23ai",
             "repo": "ARPL",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -744,10 +744,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-12T12:20:59Z",
+            "last_commit": "2026-08-13T19:06:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38526
+            "stars": 38531
           }
         },
         {
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:11:10.838Z",
+    "last_updated": "2026-08-14T03:58:59.149Z",
     "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
     "enhanced_repository": "enhansome/enhansome_OpenSetRecognition_list",
