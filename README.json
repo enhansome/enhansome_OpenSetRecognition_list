@@ -312,7 +312,7 @@
             "last_commit": "2022-07-16T06:28:09Z",
             "owner": "zhmiao",
             "repo": "OpenLongTailRecognition-OLTR",
-            "stars": 874
+            "stars": 873
           }
         },
         {
@@ -744,10 +744,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38531
+            "stars": 38530
           }
         },
         {
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:58:59.149Z",
+    "last_updated": "2026-08-15T02:44:57.518Z",
     "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
     "enhanced_repository": "enhansome/enhansome_OpenSetRecognition_list",
