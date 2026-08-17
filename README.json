@@ -744,10 +744,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-14T22:49:14Z",
+            "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38540
+            "stars": 38554
           }
         },
         {
@@ -909,7 +909,7 @@
             "last_commit": "2021-01-31T10:15:56Z",
             "owner": "tasfia",
             "repo": "DAMC",
-            "stars": 26
+            "stars": 27
           }
         },
         {
@@ -923,7 +923,7 @@
             "last_commit": "2023-10-20T14:04:14Z",
             "owner": "PRIS-CV",
             "repo": "Mutual-to-Separate",
-            "stars": 24
+            "stars": 25
           }
         }
       ],
@@ -948,7 +948,7 @@
             "last_commit": "2024-07-03T06:21:21Z",
             "owner": "JonathonLuiten",
             "repo": "TrackEval",
-            "stars": 1253
+            "stars": 1254
           }
         },
         {
@@ -982,7 +982,7 @@
             "last_commit": "2022-12-19T08:59:57Z",
             "owner": "JosephKJ",
             "repo": "OWOD",
-            "stars": 1075
+            "stars": 1076
           }
         },
         {
@@ -1023,7 +1023,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:53:38.660Z",
+    "last_updated": "2026-08-17T02:53:50.353Z",
     "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
     "enhanced_repository": "enhansome/enhansome_OpenSetRecognition_list",
