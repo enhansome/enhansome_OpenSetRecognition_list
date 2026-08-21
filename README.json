@@ -785,7 +785,7 @@
                     "last_commit": "2026-08-19T20:48:11Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38581
+                    "stars": 38590
                   }
                 },
                 {
@@ -800,7 +800,7 @@
                     "last_commit": "2021-10-09T01:31:17Z",
                     "owner": "hendrycks",
                     "repo": "outlier-exposure",
-                    "stars": 576
+                    "stars": 573
                   }
                 },
                 {
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:50:45.889Z",
+    "last_updated": "2026-08-21T02:56:07.248Z",
     "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
     "original_repository_id": 165965009,
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
