@@ -782,10 +782,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-19T20:48:11Z",
+                    "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38590
+                    "stars": 38593
                   }
                 },
                 {
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:56:07.248Z",
+    "last_updated": "2026-08-22T02:47:23.782Z",
     "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
     "original_repository_id": 165965009,
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
