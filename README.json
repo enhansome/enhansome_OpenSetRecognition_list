@@ -785,7 +785,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38593
+                    "stars": 38601
                   }
                 },
                 {
@@ -1000,7 +1000,7 @@
                     "last_commit": "2024-07-03T06:21:21Z",
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1254
+                    "stars": 1253
                   }
                 },
                 {
@@ -1085,7 +1085,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:47:23.782Z",
+    "last_updated": "2026-08-23T02:55:36.508Z",
     "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
     "original_repository_id": 165965009,
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
