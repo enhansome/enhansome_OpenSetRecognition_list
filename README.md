@@ -1,6 +1,6 @@
 # Awesome Open Set Recognition list with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,330 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,207 | 🐛 2 | 📅 2024-03-01
 ![](https://img.shields.io/github/license/iCGY96/awesome_OpenSetRecognition_list)
 [![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,207 | 🐛 2 | 📅 2024-03-01
@@ -191,7 +191,7 @@
 
 ##### 2016
 
-* [Towards open set deep networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bendale_Towards_Open_Set_CVPR_2016_paper.html), Bendale A, Boult T E. (**CVPR, 2016**). [**\[code\]**](https://github.com/abhijitbendale/OSDN) ⭐ 298 | 🐛 7 | 🌐 Python | 📅 2018-04-30.
+* [Towards open set deep networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bendale_Towards_Open_Set_CVPR_2016_paper.html), Bendale A, Boult T E. (**CVPR, 2016**). [**\[code\]**](https://github.com/abhijitbendale/OSDN) ⭐ 297 | 🐛 7 | 🌐 Python | 📅 2018-04-30.
 
 ##### 2015
 
@@ -207,16 +207,16 @@
 
 ##### 2018
 
-* [Data-Fusion Techniques for Open-Set Recognition Problems](https://ieeexplore.ieee.org/abstract/document/8332940/), Neira M A C, Júnior P R M, Rocha A, et al. (**IEEE Access, 2018**).
 * [Towards open-set face recognition using hashing functions](https://ieeexplore.ieee.org/abstract/document/8272751/), Vareto R, Silva S, Costa F, et al. (**IJCB, 2018**). [**\[code\]**](https://github.com/rafaelvareto/HPLS-HFCN-openset) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2019-10-08.
+* [Data-Fusion Techniques for Open-Set Recognition Problems](https://ieeexplore.ieee.org/abstract/document/8332940/), Neira M A C, Júnior P R M, Rocha A, et al. (**IEEE Access, 2018**).
 * [Learning to Separate Domains in Generalized Zero-Shot and Open Set Learning: a probabilistic perspective](https://arxiv.org/abs/1810.07368), Hanze Dong, Yanwei Fu, Leonid Sigal, Sung Ju Hwang, Yu-Gang Jiang, Xiangyang Xue. (**arXiv, 2018**).
 
 ##### 2017
 
+* [Fast and Accurate Face Recognition with Image Sets](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Cevikalp_Fast_and_Accurate_ICCV_2017_paper.pdf), Cevikalp H, Yavuz H S. (**ICCVW, 2017**). [**\[code\]**](https://github.com/hezhangsprinter/SROSR) ⭐ 23 | 🐛 0 | 🌐 Matlab | 📅 2016-12-07
 * [Sparse representation-based open set recognition](https://ieeexplore.ieee.org/abstract/document/7577876/), Zhang H, Patel V M. (**PAMI, 2017**).
 * [Best fitting hyperplanes for classification](https://ieeexplore.ieee.org/abstract/document/7506010/), Cevikalp H. (**PAMI, 2017**). [**\[code\]**](http://mlcv.ogu.edu.tr/softwarefh.html).
 * [Polyhedral conic classifiers for visual object detection and classification](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cevikalp_Polyhedral_Conic_Classifiers_CVPR_2017_paper.pdf), Cevikalp H, Triggs B. Rigling B D. (**CVPR, 2017**).
-* [Fast and Accurate Face Recognition with Image Sets](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w23/Cevikalp_Fast_and_Accurate_ICCV_2017_paper.pdf), Cevikalp H, Yavuz H S. (**ICCVW, 2017**). [**\[code\]**](https://github.com/hezhangsprinter/SROSR) ⭐ 23 | 🐛 0 | 🌐 Matlab | 📅 2016-12-07
 * [Nearest neighbors distance ratio open-set classifier](https://link.springer.com/article/10.1007/s10994-016-5610-8), Júnior P R M, de Souza R M, Werneck R O, et al. (**Machine Learning, 2017**).
 
 ##### 2016
@@ -312,8 +312,8 @@
 
 ##### 2019
 
-* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,607 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-21
-* [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**\[code\]**](https://github.com/hendrycks/outlier-exposure) ⭐ 573 | 🐛 5 | 🌐 Python | 📅 2021-10-09
+* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,611 | 🐛 1,988 | 🌐 Jupyter Notebook | 📅 2026-08-21
+* [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**\[code\]**](https://github.com/hendrycks/outlier-exposure) ⭐ 572 | 🐛 5 | 🌐 Python | 📅 2021-10-09
 * [Evidential Deep Learning to Quantify Classification Uncertainty](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html). Murat Sensoy, Lance Kaplan, Melih Kandemir. (**NeurIPS 2019**). [**\[code\]**](https://github.com/dougbrion/pytorch-classification-uncertainty) ⭐ 520 | 🐛 10 | 🌐 Python | 📅 2024-01-02
 * [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**\[code\]**](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
 * [Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem](https://arxiv.org/abs/1812.05720). Matthias Hein, Maksym Andriushchenko, Julian Bitterwolf. (**CVPR 2019**). [**\[code\]**](https://github.com/max-andr/relu_networks_overconfident) ⭐ 185 | 🐛 0 | 🌐 Python | 📅 2019-07-14
@@ -376,9 +376,9 @@
 
 ##### 2019
 
+* [Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration](http://openaccess.thecvf.com/content_CVPR_2019/html/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.html). Shuhan Tan, Jiening Jiao, Wei-Shi Zheng. (**CVPR 2019**). [**\[code\]**](https://github.com/junbaoZHUO/UODTN) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2021-03-04
 * [Separate to Adapt: Open Set Domain Adaptation via Progressive Separation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Separate_to_Adapt_Open_Set_Domain_Adaptation_via_Progressive_Separation_CVPR_2019_paper.pdf). Hong Liu, Zhangjie Cao, Mingsheng Long, Jianmin Wang, Qiang Yang. (**CVPR 2019**).
 * [Unsupervised Open Domain Recognition by Semantic Discrepancy Minimization](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhuo_Unsupervised_Open_Domain_Recognition_by_Semantic_Discrepancy_Minimization_CVPR_2019_paper.pdf). Junbao Zhuo, Shuhui Wang, Shuhao Cui, Qingming Huang. (**CVPR 2019**).
-* [Weakly Supervised Open-Set Domain Adaptation by Dual-Domain Collaboration](http://openaccess.thecvf.com/content_CVPR_2019/html/Tan_Weakly_Supervised_Open-Set_Domain_Adaptation_by_Dual-Domain_Collaboration_CVPR_2019_paper.html). Shuhan Tan, Jiening Jiao, Wei-Shi Zheng. (**CVPR 2019**). [**\[code\]**](https://github.com/junbaoZHUO/UODTN) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2021-03-04
 * [Learning Factorized Representations for Open-set Domain Adaptation](https://openreview.net/forum?id=SJe3HiC5KX), Mahsa Baktashmotlagh, Masoud Faraki, Tom Drummond, Mathieu Salzmann. (**ICLR 2019**).
 * [Known-class Aware Self-ensemble for Open Set Domain Adaptation](https://arxiv.org/abs/1905.01068v1), Qing Lian, Wen Li, Lin Chen, Lixin Duan. (**arXiv 2019**).
 * [Open Set Domain Adaptation: Theoretical Bound and Algorithm](https://arxiv.org/abs/1907.08375v1), Zhen Fang, Jie Lu, Feng Liu, Junyu Xuan, Guangquan Zhang. (**arXiv 2019**).
@@ -400,12 +400,12 @@
 
 ##### 2022
 
-* [Opening Up Open-World Tracking](https://arxiv.org/abs/2104.11221), Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (**CVPR 2022**). [**\[code\]**](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/OpenWorldTracking-Official/Readme.md) ⭐ 1,253 | 🐛 83 | 🌐 Python | 📅 2024-07-03
+* [Opening Up Open-World Tracking](https://arxiv.org/abs/2104.11221), Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (**CVPR 2022**). [**\[code\]**](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/OpenWorldTracking-Official/Readme.md) ⭐ 1,254 | 🐛 83 | 🌐 Python | 📅 2024-07-03
 * [OW-DETR: Open-world Detection Transformer](http://arxiv.org/abs/2112.01513), Akshita Gupta, Sanath Narayan, K J Joseph, Salman Khan, Fahad Shahbaz Khan, and Mubarak Shah. (**CVPR 2022**). [**\[code\]**](https://github.com/akshitac8/OW-DETR) ⭐ 263 | 🐛 36 | 🌐 Python | 📅 2023-04-04
 
 ##### 2021
 
-* [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603), K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian. (**CVPR 2021**). [**\[code\]**](https://github.com/JosephKJ/OWOD) ⭐ 1,076 | 🐛 30 | 🌐 Python | 📅 2022-12-19
+* [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603), K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian. (**CVPR 2021**). [**\[code\]**](https://github.com/JosephKJ/OWOD) ⭐ 1,075 | 🐛 30 | 🌐 Python | 📅 2022-12-19
 
 * [A Unified Objective for Novel Class Discovery](https://arxiv.org/abs/2108.08536), Enrico Fini, Enver Sangineto, Stéphane Lathuilière, Zhun Zhong, Moin Nabi, Elisa Ricci. (**ICCV 2021**). [**\[code\]**](https://github.com/DonkeyShot21/UNO) ⭐ 159 | 🐛 1 | 🌐 Python | 📅 2022-03-22
 
@@ -421,11 +421,11 @@
 
 ##### 2019
 
+* [Open-world Learning and Application to Product Classification](https://arxiv.org/abs/1809.06004). Hu Xu, Bing Liu, Lei Shu, P. Yu. (**WWW 2019**). [**\[code\]**](https://github.com/howardhsu/Meta-Open-World-Learning) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2019-04-19
 * [P-ODN: Prototype based Open Deep Network for Open Set Recognition](https://arxiv.org/abs/1905.01851v1), Yu Shu, Yemin Shi, Yaowei Wang, Tiejun Huang, Yonghong Tian. (**arXiv 2019**).
 * [Learning and the Unknown: Surveying Steps Toward Open World Recognition](https://www.vast.uccs.edu/~tboult/PAPERS/Learning_and_the_Unknown_Surveying_Steps_Toward_Open_World_Recognition_AAAI19.pdf), Terrance Boult, Steve Cruz, Akshay Dhamija, Manuel Günther, James Henrydoss,
   Walter J. Scheirer. (**AAAI, 2019**).
 * [Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition](https://arxiv.org/abs/1905.12019v2). Martin Mundt, Sagnik Majumder, Iuliia Pliushch, Visvanathan Ramesh. (**arXiv 2019**).
-* [Open-world Learning and Application to Product Classification](https://arxiv.org/abs/1809.06004). Hu Xu, Bing Liu, Lei Shu, P. Yu. (**WWW 2019**). [**\[code\]**](https://github.com/howardhsu/Meta-Open-World-Learning) ⭐ 37 | 🐛 1 | 🌐 Python | 📅 2019-04-19
 
 ##### 2018
 
