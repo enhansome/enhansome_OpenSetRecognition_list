@@ -810,6 +810,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization",
+                  "description": ". Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, Justin Gilmer. (ArXiv 2020). [code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 243854319,
+                    "language": "Python",
+                    "last_commit": "2021-07-23T00:08:09Z",
+                    "owner": "hendrycks",
+                    "repo": "imagenet-r",
+                    "stars": 285
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances",
                   "description": ", Jihoon Tack, Sangwoo Mo, Jongheon Jeong, Jinwoo Shin. (NeurIPS 2020). [code].",
                   "children": [],
@@ -821,21 +836,6 @@
                     "owner": "alinlab",
                     "repo": "CSI",
                     "stars": 285
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization",
-                  "description": ". Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, Justin Gilmer. (ArXiv 2020). [code]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 243854319,
-                    "language": "Python",
-                    "last_commit": "2021-07-23T00:08:09Z",
-                    "owner": "hendrycks",
-                    "repo": "imagenet-r",
-                    "stars": 284
                   }
                 },
                 {
@@ -902,7 +902,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38611
+                    "stars": 38612
                   }
                 },
                 {
@@ -1078,7 +1078,7 @@
                 "last_commit": "2022-09-20T09:33:40Z",
                 "owner": "hoya012",
                 "repo": "awesome-anomaly-detection",
-                "stars": 2900
+                "stars": 2901
               }
             },
             {
@@ -1356,7 +1356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:12.347Z",
+    "last_updated": "2026-08-25T02:52:10.636Z",
     "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
     "original_repository_id": 165965009,
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
