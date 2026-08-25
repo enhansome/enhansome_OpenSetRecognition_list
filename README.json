@@ -902,7 +902,7 @@
                     "last_commit": "2026-08-21T19:58:51Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38612
+                    "stars": 38614
                   }
                 },
                 {
@@ -1356,7 +1356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:52:10.636Z",
+    "last_updated": "2026-08-25T06:07:32.827Z",
     "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
     "original_repository_id": 165965009,
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
