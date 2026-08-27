@@ -1,6 +1,6 @@
 # Awesome Open Set Recognition list with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,371 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,372 | 🐛 105 | 📅 2026-08-21
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,207 | 🐛 2 | 📅 2024-03-01
 ![](https://img.shields.io/github/license/iCGY96/awesome_OpenSetRecognition_list)
 [![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,207 | 🐛 2 | 📅 2024-03-01
