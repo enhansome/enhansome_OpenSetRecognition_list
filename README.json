@@ -899,10 +899,10 @@
                     "archived": false,
                     "id": 151619717,
                     "language": "Jupyter Notebook",
-                    "last_commit": "2026-08-25T18:30:01Z",
+                    "last_commit": "2026-08-27T09:11:14Z",
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38621
+                    "stars": 38630
                   }
                 },
                 {
@@ -1249,7 +1249,7 @@
                     "last_commit": "2024-07-03T06:21:21Z",
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1255
+                    "stars": 1258
                   }
                 },
                 {
@@ -1356,9 +1356,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:58:23.795Z",
-    "original_repository": "gary23ai/awesome_OpenSetRecognition_list",
-    "original_repository_id": 165965009,
+    "last_updated": "2026-08-27T12:12:03.488Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 165965009,
+      "language": null,
+      "last_commit": "2024-03-01T20:20:42Z",
+      "owner": "gary23ai",
+      "repo": "awesome_OpenSetRecognition_list",
+      "stars": 1207
+    },
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
     "enhanced_repository": "enhansome/enhansome_OpenSetRecognition_list",
     "enhanced_repository_description": null,
