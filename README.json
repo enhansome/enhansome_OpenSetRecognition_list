@@ -16,12 +16,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 550669965,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-11-15T14:03:17Z",
+                        "open_issues": 2,
                         "owner": "AIML-IfI",
                         "repo": "openset-imagenet",
-                        "stars": 8
+                        "stars": 8,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -32,12 +37,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 649443555,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2023-06-05T10:01:11Z",
+                        "open_issues": 1,
                         "owner": "Salah-Abouzaid",
                         "repo": "MaterialCharML",
-                        "stars": 7
+                        "stars": 7,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -55,12 +65,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official repo for our ICLR 22 Oral paper: \"Open-Set Recognition: a Good Closed-Set Classifier is All You Need?\"",
+                        "homepage": null,
                         "id": 414602984,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-10-20T12:02:38Z",
+                        "open_issues": 5,
                         "owner": "sgvaze",
                         "repo": "osr_closed_set_all_you_need",
-                        "stars": 301
+                        "stars": 301,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -71,12 +86,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[TPAMI2022] Class Specific Semantic Reconstruction for Open Set Recognition",
+                        "homepage": null,
                         "id": 524143368,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2023-12-01T05:17:28Z",
+                        "open_issues": 4,
                         "owner": "xyzedd",
                         "repo": "CSSR",
-                        "stars": 59
+                        "stars": 59,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -87,12 +107,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2022 Oral] Towards Open Set Temporal Action Localization",
+                        "homepage": null,
                         "id": 405533770,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2023-09-04T14:32:03Z",
+                        "open_issues": 2,
                         "owner": "Cogito2012",
                         "repo": "OpenTAL",
-                        "stars": 55
+                        "stars": 55,
+                        "topics": [
+                          "action",
+                          "open-set",
+                          "open-set-recognition",
+                          "video"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -103,12 +133,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official PyTorch Repository of \"Difficulty-Aware Simulator for Open Set Recognition\" (ECCV 2022 Paper)",
+                        "homepage": "https://arxiv.org/abs/2207.10024",
                         "id": 510295271,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-07-28T16:11:29Z",
+                        "open_issues": 0,
                         "owner": "wjun0830",
                         "repo": "Difficulty-Aware-Simulator",
-                        "stars": 43
+                        "stars": 43,
+                        "topics": [
+                          "deep-learning",
+                          "knowledge-distillation",
+                          "open-set-classification",
+                          "open-set-generation",
+                          "open-set-recognition",
+                          "pytorch"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -119,12 +161,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation of paper \"DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition\"",
+                        "homepage": null,
                         "id": 510323124,
                         "language": "Python",
+                        "license": "GPL-2.0",
                         "last_commit": "2024-04-25T09:31:09Z",
+                        "open_issues": 6,
                         "owner": "matejgrcic",
                         "repo": "DenseHybrid",
-                        "stars": 38
+                        "stars": 38,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -135,12 +182,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 501774775,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2022-10-27T01:05:57Z",
+                        "open_issues": 1,
                         "owner": "antoalli",
                         "repo": "3D_OS",
-                        "stars": 31
+                        "stars": 31,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -151,12 +203,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation of OSSGAN [CVPR 2022] ",
+                        "homepage": null,
                         "id": 474895443,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2022-05-02T03:23:54Z",
+                        "open_issues": 0,
                         "owner": "raven38",
                         "repo": "OSSGAN",
-                        "stars": 21
+                        "stars": 21,
+                        "topics": [
+                          "computer-vision",
+                          "cvpr",
+                          "cvpr2022",
+                          "gan",
+                          "generative-adversarial-network",
+                          "image-processing",
+                          "python",
+                          "pytorch"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -167,12 +233,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 431559786,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2022-04-07T08:11:10Z",
+                        "open_issues": 0,
                         "owner": "sumitramalagi",
                         "repo": "Unseen-classes-at-a-later-time",
-                        "stars": 13
+                        "stars": 13,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -190,12 +261,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[TPAMI 2022] Adversarial Reciprocal Points Learning for Open Set Recognition",
+                        "homepage": "https://ieeexplore.ieee.org/document/9521769",
                         "id": 311039003,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-06-30T11:01:38Z",
+                        "open_issues": 6,
                         "owner": "gary23ai",
                         "repo": "ARPL",
-                        "stars": 200
+                        "stars": 200,
+                        "topics": [
+                          "open-set-recognition",
+                          "openset",
+                          "openset-classification",
+                          "openset-recognition",
+                          "out-of-distribution-detection"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -206,12 +288,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2021] Released code for Counterfactual Zero-Shot and Open-Set Visual Recognition",
+                        "homepage": null,
                         "id": 343311548,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2021-03-01T13:29:38Z",
+                        "open_issues": 12,
                         "owner": "yue-zhongqi",
                         "repo": "gcm-cf",
-                        "stars": 165
+                        "stars": 165,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -222,12 +309,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "ICCV2021 - training a post-hoc lightweight GAN-discriminator for open-set recognition",
+                        "homepage": null,
                         "id": 354567305,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2022-07-27T14:44:59Z",
+                        "open_issues": 11,
                         "owner": "aimerykong",
                         "repo": "OpenGAN",
-                        "stars": 142
+                        "stars": 142,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -238,12 +330,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[ICCV 2021 Oral] Deep Evidential Action Recognition",
+                        "homepage": null,
                         "id": 342059341,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2023-09-04T04:38:25Z",
+                        "open_issues": 2,
                         "owner": "Cogito2012",
                         "repo": "DEAR",
-                        "stars": 133
+                        "stars": 133,
+                        "topics": [
+                          "action-recognition",
+                          "debiasing",
+                          "evidential-deep-learning",
+                          "model-calibration",
+                          "ood-detection",
+                          "openset-recognition",
+                          "uncertainty-quantification",
+                          "video-understanding"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -254,12 +360,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 380515258,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-05-08T20:30:40Z",
+                        "open_issues": 7,
                         "owner": "VisionLearningGroup",
                         "repo": "OP_Match",
-                        "stars": 60
+                        "stars": 60,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -270,12 +381,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code for the Paper: \"Conditional Variational Capsule Network for Open Set Recognition\", Y. Guo, G. Camporese, W. Yang, A. Sperduti, L. Ballan, ICCV, 2021.",
+                        "homepage": null,
                         "id": 356199848,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2023-05-01T02:24:00Z",
+                        "open_issues": 3,
                         "owner": "guglielmocamporese",
                         "repo": "cvaecaposr",
-                        "stars": 46
+                        "stars": 46,
+                        "topics": [
+                          "capsule-networks",
+                          "incremental-learning",
+                          "openset-recognition",
+                          "variational-autoencoders"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -286,12 +407,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Open Set Logo Detection Dataset (OSLD Dataset)",
+                        "homepage": null,
                         "id": 400952701,
                         "language": null,
+                        "license": "NOASSERTION",
                         "last_commit": "2022-03-13T01:51:24Z",
+                        "open_issues": 0,
                         "owner": "mubastan",
                         "repo": "osld",
-                        "stars": 21
+                        "stars": 21,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -309,12 +435,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 234160135,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2020-11-24T18:34:36Z",
+                        "open_issues": 2,
                         "owner": "Vastlab",
                         "repo": "Elephant-of-object-detection",
-                        "stars": 28
+                        "stars": 28,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -332,12 +463,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Pytorch implementation for \"Large-Scale Long-Tailed Recognition in an Open World\" (CVPR 2019 ORAL)",
+                        "homepage": null,
                         "id": 167261741,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2022-07-16T06:28:09Z",
+                        "open_issues": 9,
                         "owner": "zhmiao",
                         "repo": "OpenLongTailRecognition-OLTR",
-                        "stars": 873
+                        "stars": 873,
+                        "topics": [
+                          "computer-vision",
+                          "cvpr2019",
+                          "deep-learning",
+                          "long-tail",
+                          "oltr",
+                          "open-long-tail-recognition",
+                          "open-set",
+                          "pytorch-implementation"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -348,12 +493,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Implementaion of S-DCNet (ICCV 2019)",
+                        "homepage": null,
                         "id": 199249108,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-07-06T21:20:22Z",
+                        "open_issues": 12,
                         "owner": "xhp-hust-2018-2011",
                         "repo": "S-DCNet",
-                        "stars": 133
+                        "stars": 133,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -364,12 +514,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "PyTorch code for our paper: Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?  https://arxiv.org/abs/1908.09625",
+                        "homepage": null,
                         "id": 216345605,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2022-02-11T16:40:50Z",
+                        "open_issues": 1,
                         "owner": "MrtnMndt",
                         "repo": "Deep_Openset_Recognition_through_Uncertainty",
-                        "stars": 94
+                        "stars": 94,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -380,12 +535,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 173646127,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2019-09-12T14:33:06Z",
+                        "open_issues": 1,
                         "owner": "PramuPerera",
                         "repo": "TransferLearningNovelty",
-                        "stars": 23
+                        "stars": 23,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -403,12 +563,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Counterfactual Image Generation",
+                        "homepage": null,
                         "id": 119821752,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2019-11-01T22:18:12Z",
+                        "open_issues": 6,
                         "owner": "lwneal",
                         "repo": "counterfactual-open-set",
-                        "stars": 85
+                        "stars": 85,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -419,12 +584,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 138892235,
                         "language": "HTML",
+                        "license": null,
                         "last_commit": "2018-12-19T03:37:28Z",
+                        "open_issues": 2,
                         "owner": "Vastlab",
                         "repo": "Reducing-Network-Agnostophobia",
-                        "stars": 71
+                        "stars": 71,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -435,12 +605,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This is an implementation of the Extreme Value Machine by Rudd et al., with minor changes from the original work. ",
+                        "homepage": null,
                         "id": 132092384,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2018-09-30T16:25:26Z",
+                        "open_issues": 3,
                         "owner": "EMRResearch",
                         "repo": "ExtremeValueMachine",
-                        "stars": 53
+                        "stars": 53,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -451,12 +626,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Jupyter nodebook with R code for reproducing the experiments in the paper \"Open Category Detection with PAC Guarantees\". Need to use linux/windows for isolation forest part. ",
+                        "homepage": null,
                         "id": 134787698,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2018-08-26T00:10:42Z",
+                        "open_issues": 0,
                         "owner": "liusi2019",
                         "repo": "ocd",
-                        "stars": 5
+                        "stars": 5,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -474,12 +654,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Convolutional Neural Networks for Sentence Classification in Keras",
+                        "homepage": null,
                         "id": 54260939,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2018-11-13T05:23:36Z",
+                        "open_issues": 2,
                         "owner": "alexander-rakhlin",
                         "repo": "CNN-for-Sentence-Classification-in-Keras",
-                        "stars": 593
+                        "stars": 593,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -490,12 +675,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Open category classification by adversarial sample generation",
+                        "homepage": null,
                         "id": 130086307,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2020-06-07T11:24:22Z",
+                        "open_issues": 1,
                         "owner": "eyounx",
                         "repo": "ASG",
-                        "stars": 21
+                        "stars": 21,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -513,12 +703,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code and data for the research paper \"Towards Open Set Deep Networks\" A Bendale, T Boult, CVPR 2016",
+                        "homepage": null,
                         "id": 63182969,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2018-04-30T00:08:34Z",
+                        "open_issues": 7,
                         "owner": "abhijitbendale",
                         "repo": "OSDN",
-                        "stars": 297
+                        "stars": 297,
+                        "topics": [
+                          "deep-learning",
+                          "extract-features",
+                          "open-set",
+                          "openmax",
+                          "softmax",
+                          "softmax-regression"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -543,12 +745,26 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Paper: Towards Open-Set Face Recognition using Hashing Functions (IJCB'17)",
+                        "homepage": "http://homepages.dcc.ufmg.br/~rafaelvareto/",
                         "id": 95493900,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2019-10-08T16:55:28Z",
+                        "open_issues": 1,
                         "owner": "rafaelvareto",
                         "repo": "HPLS-HFCN-openset",
-                        "stars": 13
+                        "stars": 13,
+                        "topics": [
+                          "bagging",
+                          "face-recognition",
+                          "hash-functions",
+                          "machine-learning",
+                          "open-set",
+                          "paper",
+                          "pls",
+                          "svm"
+                        ]
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -566,12 +782,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This is the implementation of 'Sparse Representation based Open-set Recognition  (T-PAMI)",
+                        "homepage": null,
                         "id": 74909663,
                         "language": "Matlab",
+                        "license": null,
                         "last_commit": "2016-12-07T01:44:50Z",
+                        "open_issues": 0,
                         "owner": "hezhangsprinter",
                         "repo": "SROSR",
-                        "stars": 23
+                        "stars": 23,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -589,12 +810,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": "http://vast.uccs.edu/",
                         "id": 19407249,
                         "language": "C++",
+                        "license": "NOASSERTION",
                         "last_commit": "2014-12-29T23:38:24Z",
+                        "open_issues": 3,
                         "owner": "ljain2",
                         "repo": "libsvm-openset",
-                        "stars": 51
+                        "stars": 51,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     },
@@ -605,12 +831,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": "http://vast.uccs.edu/",
                         "id": 19407249,
                         "language": "C++",
+                        "license": "NOASSERTION",
                         "last_commit": "2014-12-29T23:38:24Z",
+                        "open_issues": 3,
                         "owner": "ljain2",
                         "repo": "libsvm-openset",
-                        "stars": 51
+                        "stars": 51,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -628,12 +859,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": "http://vast.uccs.edu/",
                         "id": 19407249,
                         "language": "C++",
+                        "license": "NOASSERTION",
                         "last_commit": "2014-12-29T23:38:24Z",
+                        "open_issues": 3,
                         "owner": "ljain2",
                         "repo": "libsvm-openset",
-                        "stars": 51
+                        "stars": 51,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
                     }
@@ -663,12 +899,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for ICML2021 Paper - Learning Bounds for Open-set Learning",
+                    "homepage": null,
                     "id": 368498600,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2021-07-17T08:38:57Z",
+                    "open_issues": 0,
                     "owner": "Anjin-Liu",
                     "repo": "Openset_Learning_AOSR",
-                    "stars": 35
+                    "stars": 35,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -693,12 +934,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SSD: A Unified Framework for Self-Supervised Outlier Detection [ICLR 2021]",
+                    "homepage": "https://openreview.net/forum?id=v5gjXpmR8J",
                     "id": 306966337,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-07-16T05:08:14Z",
+                    "open_issues": 2,
                     "owner": "inspire-group",
                     "repo": "SSD",
-                    "stars": 139
+                    "stars": 139,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -709,12 +955,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CrossNorm and SelfNorm for Generalization under Distribution Shifts, ICCV 2021",
+                    "homepage": null,
                     "id": 395724167,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-09-10T22:27:16Z",
+                    "open_issues": 2,
                     "owner": "amazon-science",
                     "repo": "crossnorm-selfnorm",
-                    "stars": 127
+                    "stars": 127,
+                    "topics": [
+                      "computer-vision",
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "iccv-2021",
+                      "model-robustness",
+                      "natural-language-processing",
+                      "normalization"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -725,12 +984,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space",
+                    "homepage": null,
                     "id": 342714037,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-06-28T22:55:02Z",
+                    "open_issues": 1,
                     "owner": "deeplearning-wisc",
                     "repo": "large_scale_ood",
-                    "stars": 101
+                    "stars": 101,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -741,12 +1005,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2021] Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain",
+                    "homepage": "https://arxiv.org/abs/2108.08487",
                     "id": 397897869,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-09-15T05:17:26Z",
+                    "open_issues": 1,
                     "owner": "gary23ai",
                     "repo": "APR",
-                    "stars": 81
+                    "stars": 81,
+                    "topics": [
+                      "domain-generalization",
+                      "frequency-analysis",
+                      "imagenet-c",
+                      "out-of-distribution-detection",
+                      "robustness"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -757,12 +1032,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Official Implementation of the ICCV-2021 Paper: Semantically Coherent Out-of-Distribution Detection.",
+                    "homepage": null,
                     "id": 398207566,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-03-21T06:12:46Z",
+                    "open_issues": 0,
                     "owner": "Jingkang50",
                     "repo": "ICCV21_SCOOD",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "computer-vision",
+                      "model-robustness",
+                      "ood",
+                      "ood-detection",
+                      "out-of-distribution",
+                      "out-of-distribution-detection"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -773,12 +1060,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for our paper \"MG-GAN: A Multi-Generator Model Preventing Out-of-Distribution Samples in Pedestrian Trajectory Prediction\" published at ICCV 2021.",
+                    "homepage": "https://selflein.github.io/MG-GAN/",
                     "id": 389562915,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-09-28T11:37:44Z",
+                    "open_issues": 4,
                     "owner": "selflein",
                     "repo": "MG-GAN",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -789,12 +1081,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 319356627,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-09-02T12:33:55Z",
+                    "open_issues": 1,
                     "owner": "robin-chan",
                     "repo": "meta-ood",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -805,12 +1102,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for CVPR2021 paper: MOOD: Multi-level Out-of-distribution Detection",
+                    "homepage": null,
                     "id": 345406455,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-09-04T20:24:11Z",
+                    "open_issues": 1,
                     "owner": "deeplearning-wisc",
                     "repo": "MOOD",
-                    "stars": 38
+                    "stars": 38,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -821,12 +1123,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learning Representations that Support Robust Transfer of Predictors",
+                    "homepage": null,
                     "id": 418255198,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-11-07T03:54:44Z",
+                    "open_issues": 1,
                     "owner": "Newbeeer",
                     "repo": "TRM",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -844,12 +1151,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Learn fast, scalable, and calibrated measures of uncertainty using neural networks! ",
+                    "homepage": "https://proceedings.neurips.cc/paper/2020/file/aab085461de182608ee9f607f3f7d18f-Paper.pdf",
                     "id": 305911875,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-08-31T17:51:42Z",
+                    "open_issues": 17,
                     "owner": "aamini",
                     "repo": "evidential-deep-learning",
-                    "stars": 524
+                    "stars": 524,
+                    "topics": [
+                      "confidence",
+                      "deep-learning",
+                      "evidence",
+                      "neural-network",
+                      "neurips-2020",
+                      "pytorch",
+                      "tensorflow",
+                      "uncertainty"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -860,12 +1181,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances (NeurIPS 2020)",
+                    "homepage": "https://arxiv.org/abs/2007.08176",
                     "id": 280091942,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-10-19T11:01:02Z",
+                    "open_issues": 12,
                     "owner": "alinlab",
                     "repo": "CSI",
-                    "stars": 286
+                    "stars": 286,
+                    "topics": [
+                      "anomaly-detection",
+                      "contrastive-learning",
+                      "novelty-detection",
+                      "out-of-distribution-detection"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -876,12 +1207,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ImageNet-R(endition) and DeepAugment (ICCV 2021)",
+                    "homepage": null,
                     "id": 243854319,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-07-23T00:08:09Z",
+                    "open_issues": 2,
                     "owner": "hendrycks",
                     "repo": "imagenet-r",
-                    "stars": 285
+                    "stars": 285,
+                    "topics": [
+                      "domain-adaptation",
+                      "domain-generalization",
+                      "ml-safety",
+                      "out-of-distribution",
+                      "robustness"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -892,12 +1234,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[SafeAI'21] Feature Space Singularity for Out-of-Distribution Detection.",
+                    "homepage": null,
                     "id": 285205065,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-02-15T09:58:33Z",
+                    "open_issues": 1,
                     "owner": "megvii-research",
                     "repo": "FSSD_OoD_Detection",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": [
+                      "ai-safety",
+                      "anomaly",
+                      "anomaly-detection",
+                      "ood-detection",
+                      "out-of-distribution-detection"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -908,12 +1261,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Robust Out-of-distribution Detection in Neural Networks",
+                    "homepage": null,
                     "id": 248810244,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-04-12T16:14:24Z",
+                    "open_issues": 3,
                     "owner": "jfc43",
                     "repo": "robust-ood-detection",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": [
+                      "adversarial-attacks",
+                      "machine-learning",
+                      "ood-detection"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -924,12 +1286,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Background resampling for out-of-distribution detection",
+                    "homepage": null,
                     "id": 249579156,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-03-27T01:16:25Z",
+                    "open_issues": 0,
                     "owner": "JerryYLi",
                     "repo": "bg-resample-ood",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -947,12 +1314,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Google Research",
+                    "homepage": "https://research.google",
                     "id": 151619717,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T09:11:14Z",
+                    "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38639
+                    "stars": 38643,
+                    "topics": [
+                      "ai",
+                      "machine-learning",
+                      "research"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -963,12 +1339,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Anomaly Detection with Outlier Exposure (ICLR 2019)",
+                    "homepage": null,
                     "id": 134482229,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-10-09T01:31:17Z",
+                    "open_issues": 5,
                     "owner": "hendrycks",
                     "repo": "outlier-exposure",
-                    "stars": 572
+                    "stars": 572,
+                    "topics": [
+                      "anomaly",
+                      "anomaly-detection",
+                      "calibration",
+                      "deep-learning",
+                      "ml-safety",
+                      "out-of-distribution-detection",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -979,12 +1368,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repo contains a PyTorch implementation of the paper: \"Evidential Deep Learning to Quantify Classification Uncertainty\"",
+                    "homepage": "http://arxiv.org/abs/1806.01768",
                     "id": 229036034,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-01-02T20:46:09Z",
+                    "open_issues": 10,
                     "owner": "dougbrion",
                     "repo": "pytorch-classification-uncertainty",
-                    "stars": 520
+                    "stars": 520,
+                    "topics": [
+                      "classification",
+                      "dirichlet-distributions",
+                      "evidential-deep-learning",
+                      "mnist",
+                      "mnist-classification",
+                      "paper",
+                      "pytorch",
+                      "torchvision",
+                      "uncertainty",
+                      "uncertainty-neural-networks"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -995,12 +1400,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Self-Supervised Learning for OOD Detection (NeurIPS 2019)",
+                    "homepage": null,
                     "id": 191080893,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-04-29T17:42:13Z",
+                    "open_issues": 3,
                     "owner": "hendrycks",
                     "repo": "ss-ood",
-                    "stars": 269
+                    "stars": 269,
+                    "topics": [
+                      "ml-safety",
+                      "out-of-distribution-detection",
+                      "robustness",
+                      "self-supervised",
+                      "self-supervised-learning",
+                      "uncertainty"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -1011,12 +1428,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem [CVPR 2019, oral]",
+                    "homepage": "https://arxiv.org/abs/1812.05720",
                     "id": 179745132,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-07-14T13:05:58Z",
+                    "open_issues": 0,
                     "owner": "max-andr",
                     "repo": "relu_networks_overconfident",
-                    "stars": 185
+                    "stars": 185,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -1027,12 +1449,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Outlier Exposure with Confidence Control for Out-of-Distribution Detection",
+                    "homepage": null,
                     "id": 227874183,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2021-03-13T18:58:53Z",
+                    "open_issues": 1,
                     "owner": "nazim1021",
                     "repo": "OOD-detection-using-OECC",
-                    "stars": 70
+                    "stars": 70,
+                    "topics": [
+                      "anomaly-detection",
+                      "calibration",
+                      "confidence-control",
+                      "deep-learning",
+                      "in-distribution",
+                      "novelty-detection",
+                      "out-of-distribution-detection",
+                      "outlier-exposure",
+                      "pytorch"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1050,12 +1487,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A simple and effective method for detecting out-of-distribution images in neural networks.",
+                    "homepage": null,
                     "id": 121049167,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-10-12T21:32:16Z",
+                    "open_issues": 16,
                     "owner": "facebookresearch",
                     "repo": "odin",
-                    "stars": 546
+                    "stars": 546,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -1066,12 +1508,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code for the paper \"A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks\".",
+                    "homepage": null,
                     "id": 145332585,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-08-13T16:27:08Z",
+                    "open_issues": 17,
                     "owner": "pokaxpoka",
                     "repo": "deep_Mahalanobis_detector",
-                    "stars": 357
+                    "stars": 357,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -1082,12 +1529,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Training Confidence-Calibrated Classifier for Detecting Out-of-Distribution Samples / ICLR 2018",
+                    "homepage": null,
                     "id": 121211015,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-04-08T02:30:13Z",
+                    "open_issues": 6,
                     "owner": "alinlab",
                     "repo": "Confident_classifier",
-                    "stars": 182
+                    "stars": 182,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1105,12 +1557,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks",
+                    "homepage": null,
                     "id": 69183446,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2018-12-27T02:41:35Z",
+                    "open_issues": 2,
                     "owner": "hendrycks",
                     "repo": "error-detection",
-                    "stars": 234
+                    "stars": 234,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1133,12 +1590,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome anomaly detection resources",
+                "homepage": null,
                 "id": 146555808,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-09-20T09:33:40Z",
+                "open_issues": 9,
                 "owner": "hoya012",
                 "repo": "awesome-anomaly-detection",
-                "stars": 2901
+                "stars": 2901,
+                "topics": [
+                  "anomaly",
+                  "anomaly-detection",
+                  "anomalydetection",
+                  "awesome",
+                  "awesome-anomaly-detection",
+                  "awesomeanomalydetection",
+                  "deep-learning",
+                  "machine-learning",
+                  "machinelearning"
+                ]
               },
               "first_seen": "2026-08-28T13:37:58.290Z"
             },
@@ -1151,12 +1623,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 343689351,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-15T11:03:36Z",
+                    "open_issues": 10,
                     "owner": "rohban-lab",
                     "repo": "Knowledge_Distillation_AD",
-                    "stars": 91
+                    "stars": 91,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1174,12 +1651,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Combined Anomalous Object Segmentation (CAOS) Benchmark",
+                    "homepage": null,
                     "id": 223851307,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-02-02T16:56:10Z",
+                    "open_issues": 1,
                     "owner": "hendrycks",
                     "repo": "anomaly-seg",
-                    "stars": 158
+                    "stars": 158,
+                    "topics": [
+                      "anomaly-detection",
+                      "carla-simulator",
+                      "ml-safety",
+                      "out-of-distribution-detection",
+                      "segmentation"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1197,12 +1685,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple and effective method for single-class classification of images",
+                    "homepage": null,
                     "id": 155193505,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-11-29T12:44:22Z",
+                    "open_issues": 2,
                     "owner": "izikgo",
                     "repo": "AnomalyDetectionTransformations",
-                    "stars": 160
+                    "stars": 160,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1227,12 +1720,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Rotation-based Open Set",
+                    "homepage": null,
                     "id": 247689161,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-03-24T22:18:28Z",
+                    "open_issues": 3,
                     "owner": "silvia1993",
                     "repo": "ROS",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -1243,12 +1741,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Adversarial Network with Multiple Classiﬁers for Open Set Domain Adaptation ",
+                    "homepage": null,
                     "id": 298250466,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2021-01-31T10:15:56Z",
+                    "open_issues": 2,
                     "owner": "tasfia",
                     "repo": "DAMC",
-                    "stars": 27
+                    "stars": 27,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -1259,12 +1762,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code release for Mind the Gap: Enlarging the Domain Gap in Open Set Domain Adaptation (TCSVT 2023)",
+                    "homepage": null,
                     "id": 245765913,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-10-20T14:04:14Z",
+                    "open_issues": 0,
                     "owner": "PRIS-CV",
                     "repo": "Mutual-to-Separate",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "domain-adaptation",
+                      "open-set",
+                      "open-set-domain-adaptation",
+                      "open-set-recognition"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1282,12 +1795,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Codes for UODTN; Open domain recognition; CVPR19",
+                    "homepage": null,
                     "id": 178657264,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-03-04T08:58:58Z",
+                    "open_issues": 0,
                     "owner": "junbaoZHUO",
                     "repo": "UODTN",
-                    "stars": 45
+                    "stars": 45,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1312,12 +1830,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "HOTA (and other) evaluation metrics for Multi-Object Tracking (MOT).",
+                    "homepage": null,
                     "id": 296057021,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-03T06:21:21Z",
+                    "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1259
+                    "stars": 1259,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -1328,12 +1851,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2022] Official Pytorch code for OW-DETR: Open-world Detection Transformer",
+                    "homepage": null,
                     "id": 474873950,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-04T12:38:21Z",
+                    "open_issues": 36,
                     "owner": "akshitac8",
                     "repo": "OW-DETR",
-                    "stars": 263
+                    "stars": 263,
+                    "topics": [
+                      "deformable-detr",
+                      "ms-coco",
+                      "open-world-detection",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1351,12 +1884,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "(CVPR 2021 Oral) Open World Object Detection",
+                    "homepage": "https://josephkj.in",
                     "id": 299461202,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-12-19T08:59:57Z",
+                    "open_issues": 30,
                     "owner": "JosephKJ",
                     "repo": "OWOD",
-                    "stars": 1074
+                    "stars": 1074,
+                    "topics": [
+                      "continual-learning",
+                      "contrastive-learning",
+                      "cvpr",
+                      "cvpr2021",
+                      "detectron2",
+                      "energy-based-model",
+                      "incremental-learning",
+                      "object-detection",
+                      "open-world"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -1367,12 +1915,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of \"A Unified Objective for Novel Class Discovery\", ICCV2021 (Oral)",
+                    "homepage": null,
                     "id": 397188775,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-03-22T15:03:02Z",
+                    "open_issues": 1,
                     "owner": "DonkeyShot21",
                     "repo": "UNO",
-                    "stars": 159
+                    "stars": 159,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 },
@@ -1383,12 +1936,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neighborhood Contrastive Learning for Novel Class Discovery, CVPR 2021",
+                    "homepage": null,
                     "id": 379308314,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-12-09T12:35:06Z",
+                    "open_issues": 3,
                     "owner": "zhunzhong07",
                     "repo": "NCL",
-                    "stars": 77
+                    "stars": 77,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1406,12 +1964,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code for our WWW 2019 paper: \"Open-world Learning and Application to Product Classification\"",
+                    "homepage": null,
                     "id": 148729651,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-04-19T15:44:39Z",
+                    "open_issues": 1,
                     "owner": "howardhsu",
                     "repo": "Meta-Open-World-Learning",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
                 }
@@ -1430,15 +1993,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:37:58.290Z",
+    "last_updated": "2026-08-29T04:35:22.358Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
+      "homepage": null,
       "id": 165965009,
       "language": null,
+      "license": null,
       "last_commit": "2024-03-01T20:20:42Z",
+      "open_issues": 2,
       "owner": "gary23ai",
       "repo": "awesome_OpenSetRecognition_list",
-      "stars": 1207
+      "stars": 1207,
+      "topics": [
+        "awesome-list",
+        "open-set",
+        "open-set-domain-adaptation",
+        "open-set-recognition",
+        "open-source",
+        "open-word-recognition",
+        "out-of-distribution-detection"
+      ]
     },
     "original_repository_sha": "a2e517ceb00e77b45b2cf2d2c6c303cb0a44d781",
     "enhanced_repository": "enhansome/enhansome_OpenSetRecognition_list",
