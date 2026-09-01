@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-31T07:36:52Z",
+                    "last_commit": "2026-08-31T14:53:17Z",
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38658,
+                    "stars": 38664,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1694,7 +1694,7 @@
                     "open_issues": 2,
                     "owner": "izikgo",
                     "repo": "AnomalyDetectionTransformations",
-                    "stars": 160,
+                    "stars": 159,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:56:52.382Z",
+    "last_updated": "2026-09-01T07:03:02.774Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
