@@ -1,6 +1,6 @@
 # Awesome Open Set Recognition list with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,125 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,489 | 🐛 105 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,206 | 🐛 2 | 📅 2024-03-01
 ![](https://img.shields.io/github/license/iCGY96/awesome_OpenSetRecognition_list)
 [![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,206 | 🐛 2 | 📅 2024-03-01
@@ -90,7 +90,7 @@
 
 * [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://arxiv.org/abs/2110.06207). Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman. (**ICLR 2022**). [\[code\]](https://github.com/sgvaze/osr_closed_set_all_you_need) ⭐ 301 | 🐛 5 | 🌐 Python | 📅 2022-10-20.
 * [Class-specific semantic reconstruction for open set recognition](https://arxiv.org/pdf/2207.02158.pdf). Hongzhi Huang, Yu Wang, Qinghua Hu, Ming-Ming Cheng. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2022**). [\[code\]](https://github.com/xyzedd/CSSR) ⭐ 59 | 🐛 4 | 🌐 Python | 📅 2023-12-01.
-* [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf). Wentao Bao, Qi Yu, Yu Kong. (**CVPR 2022**). [\[code\]](https://github.com/Cogito2012/OpenTAL) ⭐ 55 | 🐛 2 | 🌐 Python | 📅 2023-09-04.
+* [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf). Wentao Bao, Qi Yu, Yu Kong. (**CVPR 2022**). [\[code\]](https://github.com/Cogito2012/OpenTAL) ⭐ 56 | 🐛 2 | 🌐 Python | 📅 2023-09-04.
 * [Difficulty-Aware Simulator for Open Set Recognition](https://arxiv.org/abs/2207.10024). WonJun Moon, Junho Park, Hyun Seok Seong, Cheol-Ho Cho, Jae-Pil Heo. (**ECCV 2022**). [\[code\]](https://github.com/wjun0830/Difficulty-Aware-Simulator) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2023-07-28.
 * [DenseHybrid: Hybrid Anomaly Detection for Dense Open-set Recognition](https://arxiv.org/abs/2207.02606). Matej Grcić, Petra Bevandić, Siniša Šegvić. (**ECCV 2022**). [\[code\]](https://github.com/matejgrcic/DenseHybrid) ⭐ 38 | 🐛 6 | 🌐 Python | 📅 2024-04-25.
 * [Towards Open Set 3D Learning: A Benchmark on Object Point Clouds](https://arxiv.org/abs/2207.11554). Antonio Alliegro, Francesco Cappio Borlino, Tatiana Tommasi. (**ArXiv 2022**). [\[code\]](https://github.com/antoalli/3d_os) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2022-10-27.
@@ -254,7 +254,7 @@
 
 * [CrossNorm and SelfNorm for Generalization under Distribution Shifts](https://arxiv.org/abs/2102.02811). Zhiqiang Tang, Yunhe Gao, Yi Zhu, Zhi Zhang, Mu Li, Dimitris Metaxas. (**ICCV 2021**). [**\[code\]**](https://github.com/amazon-research/crossnorm-selfnorm) ⭐ 127 | 🐛 2 | 🌐 Python | 📅 2021-09-10
 
-* [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/abs/2105.01879v1). Rui Huang, Yixuan Li. (**CVPR 2021**). [**\[code\]**](https://github.com/deeplearning-wisc/large_scale_ood) ⭐ 101 | 🐛 1 | 🌐 Python | 📅 2021-06-28
+* [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/abs/2105.01879v1). Rui Huang, Yixuan Li. (**CVPR 2021**). [**\[code\]**](https://github.com/deeplearning-wisc/large_scale_ood) ⭐ 102 | 🐛 1 | 🌐 Python | 📅 2021-06-28
 
 * [Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain](https://arxiv.org/abs/2108.08487). Guangyao Chen, Peixi Peng, Li Ma, Jia Li, Lin Du, Yonghong Tian. (**ICCV 2021**). [**\[code\]**](https://github.com/iCGY96/APR) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2022-09-15
 
@@ -312,7 +312,7 @@
 
 ##### 2019
 
-* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,678 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-08-31
+* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,684 | 🐛 1,989 | 🌐 Jupyter Notebook | 📅 2026-09-02
 * [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**\[code\]**](https://github.com/hendrycks/outlier-exposure) ⭐ 572 | 🐛 5 | 🌐 Python | 📅 2021-10-09
 * [Evidential Deep Learning to Quantify Classification Uncertainty](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html). Murat Sensoy, Lance Kaplan, Melih Kandemir. (**NeurIPS 2019**). [**\[code\]**](https://github.com/dougbrion/pytorch-classification-uncertainty) ⭐ 520 | 🐛 10 | 🌐 Python | 📅 2024-01-02
 * [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**\[code\]**](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
@@ -337,7 +337,7 @@
 
 ## Anomaly Detection
 
-[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,903 | 🐛 9 | 📅 2022-09-20
+[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,904 | 🐛 9 | 📅 2022-09-20
 
 ##### 2021
 
@@ -467,4 +467,4 @@ Contributions are most welcome, if you have any suggestions and improvements, pl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
