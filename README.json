@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T22:34:06Z",
+                    "last_commit": "2026-09-03T08:28:07Z",
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38684,
+                    "stars": 38689,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1632,7 +1632,7 @@
                     "open_issues": 10,
                     "owner": "rohban-lab",
                     "repo": "Knowledge_Distillation_AD",
-                    "stars": 91,
+                    "stars": 90,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1893,7 +1893,7 @@
                     "open_issues": 30,
                     "owner": "JosephKJ",
                     "repo": "OWOD",
-                    "stars": 1074,
+                    "stars": 1075,
                     "topics": [
                       "continual-learning",
                       "contrastive-learning",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T06:43:22.398Z",
+    "last_updated": "2026-09-04T06:48:12.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
