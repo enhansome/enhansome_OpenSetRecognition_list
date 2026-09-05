@@ -472,7 +472,7 @@
                         "open_issues": 9,
                         "owner": "zhmiao",
                         "repo": "OpenLongTailRecognition-OLTR",
-                        "stars": 872,
+                        "stars": 873,
                         "topics": [
                           "computer-vision",
                           "cvpr2019",
@@ -1160,7 +1160,7 @@
                     "open_issues": 17,
                     "owner": "aamini",
                     "repo": "evidential-deep-learning",
-                    "stars": 526,
+                    "stars": 527,
                     "topics": [
                       "confidence",
                       "deep-learning",
@@ -1323,7 +1323,7 @@
                     "open_issues": 1989,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38689,
+                    "stars": 38692,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1517,7 +1517,7 @@
                     "open_issues": 17,
                     "owner": "pokaxpoka",
                     "repo": "deep_Mahalanobis_detector",
-                    "stars": 357,
+                    "stars": 356,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T06:48:12.766Z",
+    "last_updated": "2026-09-05T06:33:20.669Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
