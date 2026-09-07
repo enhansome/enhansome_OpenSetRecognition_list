@@ -1323,7 +1323,7 @@
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38693,
+                    "stars": 38703,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1496,7 +1496,7 @@
                     "open_issues": 16,
                     "owner": "facebookresearch",
                     "repo": "odin",
-                    "stars": 546,
+                    "stars": 545,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T06:43:00.977Z",
+    "last_updated": "2026-09-07T06:51:42.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
