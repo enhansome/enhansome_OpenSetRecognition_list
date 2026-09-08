@@ -663,7 +663,7 @@
                         "open_issues": 2,
                         "owner": "alexander-rakhlin",
                         "repo": "CNN-for-Sentence-Classification-in-Keras",
-                        "stars": 593,
+                        "stars": 592,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-03T08:28:07Z",
+                    "last_commit": "2026-09-07T16:12:34Z",
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38703,
+                    "stars": 38712,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1258,
+                    "stars": 1259,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:51:42.478Z",
+    "last_updated": "2026-09-08T06:47:25.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
