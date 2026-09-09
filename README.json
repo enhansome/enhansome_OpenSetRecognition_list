@@ -1176,32 +1176,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances",
-                  "description": ", Jihoon Tack, Sangwoo Mo, Jongheon Jeong, Jinwoo Shin. (NeurIPS 2020). [code].",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances (NeurIPS 2020)",
-                    "homepage": "https://arxiv.org/abs/2007.08176",
-                    "id": 280091942,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2023-10-19T11:01:02Z",
-                    "open_issues": 12,
-                    "owner": "alinlab",
-                    "repo": "CSI",
-                    "stars": 286,
-                    "topics": [
-                      "anomaly-detection",
-                      "contrastive-learning",
-                      "novelty-detection",
-                      "out-of-distribution-detection"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T13:37:58.290Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization",
                   "description": ". Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, Justin Gilmer. (ArXiv 2020). [code]",
                   "children": [],
@@ -1223,6 +1197,32 @@
                       "ml-safety",
                       "out-of-distribution",
                       "robustness"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T13:37:58.290Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances",
+                  "description": ", Jihoon Tack, Sangwoo Mo, Jongheon Jeong, Jinwoo Shin. (NeurIPS 2020). [code].",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances (NeurIPS 2020)",
+                    "homepage": "https://arxiv.org/abs/2007.08176",
+                    "id": 280091942,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2023-10-19T11:01:02Z",
+                    "open_issues": 12,
+                    "owner": "alinlab",
+                    "repo": "CSI",
+                    "stars": 285,
+                    "topics": [
+                      "anomaly-detection",
+                      "contrastive-learning",
+                      "novelty-detection",
+                      "out-of-distribution-detection"
                     ]
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T16:12:34Z",
+                    "last_commit": "2026-09-08T09:22:17Z",
                     "open_issues": 1990,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38712,
+                    "stars": 38715,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1259,
+                    "stars": 1260,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:47:25.032Z",
+    "last_updated": "2026-09-09T06:56:20.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
