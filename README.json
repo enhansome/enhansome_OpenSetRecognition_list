@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-08T09:22:17Z",
-                    "open_issues": 1990,
+                    "last_commit": "2026-09-10T00:21:25Z",
+                    "open_issues": 1991,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38715,
+                    "stars": 38722,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1260,
+                    "stars": 1261,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T06:56:20.309Z",
+    "last_updated": "2026-09-10T06:52:50.869Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
