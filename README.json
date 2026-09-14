@@ -1323,7 +1323,7 @@
                     "open_issues": 1992,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38744,
+                    "stars": 38752,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1599,7 +1599,7 @@
                 "open_issues": 9,
                 "owner": "hoya012",
                 "repo": "awesome-anomaly-detection",
-                "stars": 2903,
+                "stars": 2904,
                 "topics": [
                   "anomaly",
                   "anomaly-detection",
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1261,
+                    "stars": 1262,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:01:53.762Z",
+    "last_updated": "2026-09-14T07:24:47.080Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
