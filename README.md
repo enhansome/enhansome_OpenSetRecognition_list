@@ -1,6 +1,6 @@
 # Awesome Open Set Recognition list with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,866 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,158 | 🐛 106 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,206 | 🐛 2 | 📅 2024-03-01
 ![](https://img.shields.io/github/license/iCGY96/awesome_OpenSetRecognition_list)
 [![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,206 | 🐛 2 | 📅 2024-03-01
@@ -254,7 +254,7 @@
 
 * [CrossNorm and SelfNorm for Generalization under Distribution Shifts](https://arxiv.org/abs/2102.02811). Zhiqiang Tang, Yunhe Gao, Yi Zhu, Zhi Zhang, Mu Li, Dimitris Metaxas. (**ICCV 2021**). [**\[code\]**](https://github.com/amazon-research/crossnorm-selfnorm) ⭐ 127 | 🐛 2 | 🌐 Python | 📅 2021-09-10
 
-* [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/abs/2105.01879v1). Rui Huang, Yixuan Li. (**CVPR 2021**). [**\[code\]**](https://github.com/deeplearning-wisc/large_scale_ood) ⭐ 102 | 🐛 1 | 🌐 Python | 📅 2021-06-28
+* [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/abs/2105.01879v1). Rui Huang, Yixuan Li. (**CVPR 2021**). [**\[code\]**](https://github.com/deeplearning-wisc/large_scale_ood) ⭐ 102 | 🐛 2 | 🌐 Python | 📅 2021-06-28
 
 * [Amplitude-Phase Recombination: Rethinking Robustness of Convolutional Neural Networks in Frequency Domain](https://arxiv.org/abs/2108.08487). Guangyao Chen, Peixi Peng, Li Ma, Jia Li, Lin Du, Yonghong Tian. (**ICCV 2021**). [**\[code\]**](https://github.com/iCGY96/APR) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2022-09-15
 
@@ -293,7 +293,7 @@
 ##### 2020
 
 * [Deep Evidential Regression](https://arxiv.org/abs/1910.02600), Alexander Amini, Wilko Schwarting, Ava Soleimany, Daniela Rus. (**NeurIPS 2020**). [**\[code\]**](https://github.com/aamini/evidential-deep-learning) ⭐ 527 | 🐛 17 | 🌐 Python | 📅 2021-08-31
-* [The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://arxiv.org/abs/2006.16241v1). Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, Justin Gilmer. (**ArXiv 2020**). [**\[code\]**](https://github.com/hendrycks/imagenet-r) ⭐ 285 | 🐛 2 | 🌐 Python | 📅 2021-07-23
+* [The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://arxiv.org/abs/2006.16241v1). Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, Justin Gilmer. (**ArXiv 2020**). [**\[code\]**](https://github.com/hendrycks/imagenet-r) ⭐ 286 | 🐛 2 | 🌐 Python | 📅 2021-07-23
 * [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/abs/2007.08176), Jihoon Tack, Sangwoo Mo, Jongheon Jeong, Jinwoo Shin. (**NeurIPS 2020**). [**\[code\]**](https://github.com/alinlab/CSI) ⭐ 285 | 🐛 12 | 🌐 Python | 📅 2023-10-19.
 * [Feature Space Singularity for Out-of-Distribution Detection](https://arxiv.org/abs/2011.14654v2), Haiwen Huang, Zhihan Li, Lulu Wang, Sishuo Chen, Bin Dong, Xinyu Zhou. (**AAAIW 2020**). [**\[code\]**](https://github.com/megvii-research/FSSD_OoD_Detection) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2021-02-15
 * [Robust Out-of-distribution Detection for Neural Networks](https://arxiv.org/abs/2003.09711), Jiefeng Chen, Yixuan Li, Xi Wu, Yingyu Liang, Somesh Jha. (**arXiv 2020**) [\[code\]](https://github.com/jfc43/robust-ood-detection) ⭐ 73 | 🐛 3 | 🌐 Python | 📅 2022-04-12
@@ -312,7 +312,7 @@
 
 ##### 2019
 
-* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,752 | 🐛 1,992 | 🌐 Jupyter Notebook | 📅 2026-09-10
+* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,764 | 🐛 1,996 | 🌐 Jupyter Notebook | 📅 2026-09-10
 * [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**\[code\]**](https://github.com/hendrycks/outlier-exposure) ⭐ 572 | 🐛 5 | 🌐 Python | 📅 2021-10-09
 * [Evidential Deep Learning to Quantify Classification Uncertainty](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html). Murat Sensoy, Lance Kaplan, Melih Kandemir. (**NeurIPS 2019**). [**\[code\]**](https://github.com/dougbrion/pytorch-classification-uncertainty) ⭐ 520 | 🐛 10 | 🌐 Python | 📅 2024-01-02
 * [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**\[code\]**](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
@@ -337,7 +337,7 @@
 
 ## Anomaly Detection
 
-[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,904 | 🐛 9 | 📅 2022-09-20
+[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,905 | 🐛 9 | 📅 2022-09-20
 
 ##### 2021
 
@@ -400,7 +400,7 @@
 
 ##### 2022
 
-* [Opening Up Open-World Tracking](https://arxiv.org/abs/2104.11221), Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (**CVPR 2022**). [**\[code\]**](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/OpenWorldTracking-Official/Readme.md) ⭐ 1,262 | 🐛 83 | 🌐 Python | 📅 2024-07-03
+* [Opening Up Open-World Tracking](https://arxiv.org/abs/2104.11221), Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (**CVPR 2022**). [**\[code\]**](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/OpenWorldTracking-Official/Readme.md) ⭐ 1,263 | 🐛 83 | 🌐 Python | 📅 2024-07-03
 * [OW-DETR: Open-world Detection Transformer](http://arxiv.org/abs/2112.01513), Akshita Gupta, Sanath Narayan, K J Joseph, Salman Khan, Fahad Shahbaz Khan, and Mubarak Shah. (**CVPR 2022**). [**\[code\]**](https://github.com/akshitac8/OW-DETR) ⭐ 264 | 🐛 36 | 🌐 Python | 📅 2023-04-04
 
 ##### 2021
@@ -467,4 +467,4 @@ Contributions are most welcome, if you have any suggestions and improvements, pl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
