@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-10T00:21:25Z",
-                    "open_issues": 1996,
+                    "last_commit": "2026-09-15T17:14:49Z",
+                    "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38764,
+                    "stars": 38771,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1860,7 +1860,7 @@
                     "open_issues": 36,
                     "owner": "akshitac8",
                     "repo": "OW-DETR",
-                    "stars": 264,
+                    "stars": 263,
                     "topics": [
                       "deformable-detr",
                       "ms-coco",
@@ -1893,7 +1893,7 @@
                     "open_issues": 30,
                     "owner": "JosephKJ",
                     "repo": "OWOD",
-                    "stars": 1075,
+                    "stars": 1074,
                     "topics": [
                       "continual-learning",
                       "contrastive-learning",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T07:01:18.468Z",
+    "last_updated": "2026-09-16T07:02:29.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
