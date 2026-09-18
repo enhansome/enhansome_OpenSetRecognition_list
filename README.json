@@ -1323,7 +1323,7 @@
                     "open_issues": 1994,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38780,
+                    "stars": 38786,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1262,
+                    "stars": 1263,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T06:58:02.235Z",
+    "last_updated": "2026-09-18T06:54:58.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
@@ -2005,7 +2005,7 @@
       "open_issues": 2,
       "owner": "gary23ai",
       "repo": "awesome_OpenSetRecognition_list",
-      "stars": 1206,
+      "stars": 1207,
       "topics": [
         "awesome-list",
         "open-set",
