@@ -1320,10 +1320,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-16T19:46:42Z",
-                    "open_issues": 1994,
+                    "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38786,
+                    "stars": 38789,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1599,7 +1599,7 @@
                 "open_issues": 9,
                 "owner": "hoya012",
                 "repo": "awesome-anomaly-detection",
-                "stars": 2905,
+                "stars": 2907,
                 "topics": [
                   "anomaly",
                   "anomaly-detection",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T06:54:58.672Z",
+    "last_updated": "2026-09-19T06:53:46.091Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
