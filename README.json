@@ -943,7 +943,7 @@
                     "open_issues": 2,
                     "owner": "inspire-group",
                     "repo": "SSD",
-                    "stars": 139,
+                    "stars": 137,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1160,7 +1160,7 @@
                     "open_issues": 17,
                     "owner": "aamini",
                     "repo": "evidential-deep-learning",
-                    "stars": 527,
+                    "stars": 528,
                     "topics": [
                       "confidence",
                       "deep-learning",
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-16T19:46:42Z",
+                    "last_commit": "2026-09-21T21:46:37Z",
                     "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38807,
+                    "stars": 38812,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1377,7 +1377,7 @@
                     "open_issues": 10,
                     "owner": "dougbrion",
                     "repo": "pytorch-classification-uncertainty",
-                    "stars": 520,
+                    "stars": 521,
                     "topics": [
                       "classification",
                       "dirichlet-distributions",
@@ -1632,7 +1632,7 @@
                     "open_issues": 10,
                     "owner": "rohban-lab",
                     "repo": "Knowledge_Distillation_AD",
-                    "stars": 90,
+                    "stars": 91,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1694,7 +1694,7 @@
                     "open_issues": 2,
                     "owner": "izikgo",
                     "repo": "AnomalyDetectionTransformations",
-                    "stars": 159,
+                    "stars": 160,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T07:28:41.933Z",
+    "last_updated": "2026-09-22T07:07:11.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
