@@ -1323,7 +1323,7 @@
                     "open_issues": 1995,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38812,
+                    "stars": 38815,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1409,7 +1409,7 @@
                     "open_issues": 3,
                     "owner": "hendrycks",
                     "repo": "ss-ood",
-                    "stars": 269,
+                    "stars": 270,
                     "topics": [
                       "ml-safety",
                       "out-of-distribution-detection",
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1263,
+                    "stars": 1265,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:07:11.206Z",
+    "last_updated": "2026-09-23T07:05:09.891Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
