@@ -502,7 +502,7 @@
                         "open_issues": 12,
                         "owner": "xhp-hust-2018-2011",
                         "repo": "S-DCNet",
-                        "stars": 133,
+                        "stars": 134,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1323,7 +1323,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38856,
+                    "stars": 38859,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1377,7 +1377,7 @@
                     "open_issues": 10,
                     "owner": "dougbrion",
                     "repo": "pytorch-classification-uncertainty",
-                    "stars": 521,
+                    "stars": 520,
                     "topics": [
                       "classification",
                       "dirichlet-distributions",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T08:05:56.161Z",
+    "last_updated": "2026-10-02T07:47:58.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
