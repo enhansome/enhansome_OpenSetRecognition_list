@@ -1323,7 +1323,7 @@
                     "open_issues": 1996,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38859,
+                    "stars": 38863,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1586,7 +1586,7 @@
             {
               "node_type": "item",
               "title": "need to survey more..",
-              "description": null,
+              "description": "hoya012/awesome-anomaly-detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:47:58.765Z",
+    "last_updated": "2026-10-03T05:16:18.361Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
