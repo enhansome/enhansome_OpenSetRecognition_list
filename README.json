@@ -1893,7 +1893,7 @@
                     "open_issues": 30,
                     "owner": "JosephKJ",
                     "repo": "OWOD",
-                    "stars": 1074,
+                    "stars": 1073,
                     "topics": [
                       "continual-learning",
                       "contrastive-learning",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T08:01:34.456Z",
+    "last_updated": "2026-10-06T08:23:36.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
