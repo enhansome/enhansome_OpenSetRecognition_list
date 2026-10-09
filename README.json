@@ -339,7 +339,7 @@
                         "open_issues": 2,
                         "owner": "Cogito2012",
                         "repo": "DEAR",
-                        "stars": 133,
+                        "stars": 134,
                         "topics": [
                           "action-recognition",
                           "debiasing",
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-07T21:04:37Z",
+                    "last_commit": "2026-10-08T17:38:14Z",
                     "open_issues": 1997,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38882,
+                    "stars": 38887,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:13:45.110Z",
+    "last_updated": "2026-10-09T08:15:07.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
