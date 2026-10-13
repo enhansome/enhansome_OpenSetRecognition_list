@@ -74,7 +74,7 @@
                         "open_issues": 5,
                         "owner": "sgvaze",
                         "repo": "osr_closed_set_all_you_need",
-                        "stars": 302,
+                        "stars": 303,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T14:34:09Z",
+                    "last_commit": "2026-10-13T06:27:55Z",
                     "open_issues": 2005,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38898,
+                    "stars": 38905,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1348,7 +1348,7 @@
                     "open_issues": 5,
                     "owner": "hendrycks",
                     "repo": "outlier-exposure",
-                    "stars": 572,
+                    "stars": 573,
                     "topics": [
                       "anomaly",
                       "anomaly-detection",
@@ -1599,7 +1599,7 @@
                 "open_issues": 10,
                 "owner": "hoya012",
                 "repo": "awesome-anomaly-detection",
-                "stars": 2916,
+                "stars": 2917,
                 "topics": [
                   "anomaly",
                   "anomaly-detection",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T08:22:12.768Z",
+    "last_updated": "2026-10-13T08:47:00.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
