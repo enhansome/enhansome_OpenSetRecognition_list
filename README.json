@@ -270,7 +270,7 @@
                         "open_issues": 6,
                         "owner": "gary23ai",
                         "repo": "ARPL",
-                        "stars": 201,
+                        "stars": 202,
                         "topics": [
                           "open-set-recognition",
                           "openset",
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-13T06:27:55Z",
+                    "last_commit": "2026-10-14T05:46:02Z",
                     "open_issues": 2005,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38905,
+                    "stars": 38911,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T08:47:00.893Z",
+    "last_updated": "2026-10-14T06:56:39.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
