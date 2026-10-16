@@ -1320,10 +1320,10 @@
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-15T02:18:00Z",
-                    "open_issues": 2005,
+                    "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38918,
+                    "stars": 38924,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1377,7 +1377,7 @@
                     "open_issues": 10,
                     "owner": "dougbrion",
                     "repo": "pytorch-classification-uncertainty",
-                    "stars": 520,
+                    "stars": 521,
                     "topics": [
                       "classification",
                       "dirichlet-distributions",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T06:48:28.160Z",
+    "last_updated": "2026-10-16T06:36:56.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
