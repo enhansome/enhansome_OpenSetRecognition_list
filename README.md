@@ -1,6 +1,6 @@
 # Awesome Open Set Recognition list with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,115 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,624 | 🐛 105 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,210 | 🐛 2 | 📅 2024-03-01
 ![](https://img.shields.io/github/license/iCGY96/awesome_OpenSetRecognition_list)
 [![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,210 | 🐛 2 | 📅 2024-03-01
@@ -111,7 +111,7 @@
 * [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887). Zhongqi Yue, Tan Wang, Hanwang Zhang, Qianru Sun, Xian-Sheng Hua. (**CVPR 2021**).  [\[code\]](https://github.com/yue-zhongqi/gcm-cf) ⭐ 165 | 🐛 12 | 🌐 Python | 📅 2021-03-01.
 * [OpenGAN: Open-Set Recognition via Open Data Generation](https://arxiv.org/abs/2104.02939v2). Shu Kong, Deva Ramanan. (**ICCV 2021**). [\[code\]](https://github.com/aimerykong/OpenGAN) ⭐ 142 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-07-27.
 * [Evidential Deep Learning for Open Set Action Recognition](https://arxiv.org/abs/2107.10161v1). Wentao Bao, Qi Yu, Yu Kong. (**ICCV 2021**). [\[code\]](https://github.com/Cogito2012/DEAR) ⭐ 134 | 🐛 2 | 🌐 Python | 📅 2023-09-04
-* [OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers](https://arxiv.org/abs/2105.14148v2). Kuniaki Saito, Donghyun Kim, Kate Saenko. (**ArXiv 2021**). [\[code\]](https://github.com/VisionLearningGroup/OP_Match) ⭐ 60 | 🐛 7 | 🌐 Python | 📅 2023-05-08.
+* [OpenMatch: Open-set Consistency Regularization for Semi-supervised Learning with Outliers](https://arxiv.org/abs/2105.14148v2). Kuniaki Saito, Donghyun Kim, Kate Saenko. (**ArXiv 2021**). [\[code\]](https://github.com/VisionLearningGroup/OP_Match) ⭐ 59 | 🐛 7 | 🌐 Python | 📅 2023-05-08.
 * [Conditional Variational Capsule Network for Open Set Recognition](https://arxiv.org/abs/2104.09159). Yunrui Guo, Guglielmo Camporese, Wenjing Yang, Alessandro Sperduti, Lamberto Ballan. (**ICCV 2021**). [\[code\]](https://github.com/guglielmocamporese/cvaecaposr) ⭐ 46 | 🐛 3 | 🌐 Python | 📅 2023-05-01
 * [Large Scale Open-Set Deep Logo Detection](https://arxiv.org/abs/1911.07440v2). Muhammet Bastan, Hao-Yu Wu, Tian Cao, Bhargava Kota, Mehmet Tek. (**ArXiv 2021**). [\[code\]](https://github.com/mubastan/osld) ⭐ 21 | 🐛 0 | 📅 2022-03-13.
 * [Adversarial Motorial Prototype Framework for Open Set Recognition](https://arxiv.org/abs/2108.04225). Ziheng Xia, Penghui Wang, Ganggang Dong, Hongwei Liu. (**ArXiv 2021**).
@@ -312,7 +312,7 @@
 
 ##### 2019
 
-* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,927 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
+* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,933 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
 * [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**\[code\]**](https://github.com/hendrycks/outlier-exposure) ⭐ 573 | 🐛 5 | 🌐 Python | 📅 2021-10-09
 * [Evidential Deep Learning to Quantify Classification Uncertainty](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html). Murat Sensoy, Lance Kaplan, Melih Kandemir. (**NeurIPS 2019**). [**\[code\]**](https://github.com/dougbrion/pytorch-classification-uncertainty) ⭐ 521 | 🐛 10 | 🌐 Python | 📅 2024-01-02
 * [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**\[code\]**](https://github.com/hendrycks/ss-ood) ⭐ 270 | 🐛 3 | 🌐 Python | 📅 2021-04-29
@@ -400,7 +400,7 @@
 
 ##### 2022
 
-* [Opening Up Open-World Tracking](https://arxiv.org/abs/2104.11221), Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (**CVPR 2022**). [**\[code\]**](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/OpenWorldTracking-Official/Readme.md) ⭐ 1,264 | 🐛 83 | 🌐 Python | 📅 2024-07-03
+* [Opening Up Open-World Tracking](https://arxiv.org/abs/2104.11221), Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (**CVPR 2022**). [**\[code\]**](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/OpenWorldTracking-Official/Readme.md) ⭐ 1,265 | 🐛 83 | 🌐 Python | 📅 2024-07-03
 * [OW-DETR: Open-world Detection Transformer](http://arxiv.org/abs/2112.01513), Akshita Gupta, Sanath Narayan, K J Joseph, Salman Khan, Fahad Shahbaz Khan, and Mubarak Shah. (**CVPR 2022**). [**\[code\]**](https://github.com/akshitac8/OW-DETR) ⭐ 263 | 🐛 36 | 🌐 Python | 📅 2023-04-04
 
 ##### 2021
@@ -467,4 +467,4 @@ Contributions are most welcome, if you have any suggestions and improvements, pl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

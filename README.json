@@ -369,7 +369,7 @@
                         "open_issues": 7,
                         "owner": "VisionLearningGroup",
                         "repo": "OP_Match",
-                        "stars": 60,
+                        "stars": 59,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1323,7 +1323,7 @@
                     "open_issues": 2008,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38927,
+                    "stars": 38933,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1264,
+                    "stars": 1265,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:25:59.080Z",
+    "last_updated": "2026-10-18T06:50:27.574Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
