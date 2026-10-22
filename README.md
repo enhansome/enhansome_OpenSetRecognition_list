@@ -1,6 +1,6 @@
 # Awesome Open Set Recognition list with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,045 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,522 | 🐛 105 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,210 | 🐛 2 | 📅 2024-03-01
 ![](https://img.shields.io/github/license/iCGY96/awesome_OpenSetRecognition_list)
 [![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,210 | 🐛 2 | 📅 2024-03-01
@@ -88,7 +88,7 @@
 
 ##### 2022
 
-* [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://arxiv.org/abs/2110.06207). Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman. (**ICLR 2022**). [\[code\]](https://github.com/sgvaze/osr_closed_set_all_you_need) ⭐ 303 | 🐛 5 | 🌐 Python | 📅 2022-10-20.
+* [Open-Set Recognition: A Good Closed-Set Classifier is All You Need](https://arxiv.org/abs/2110.06207). Sagar Vaze, Kai Han, Andrea Vedaldi, Andrew Zisserman. (**ICLR 2022**). [\[code\]](https://github.com/sgvaze/osr_closed_set_all_you_need) ⭐ 302 | 🐛 5 | 🌐 Python | 📅 2022-10-20.
 * [Class-specific semantic reconstruction for open set recognition](https://arxiv.org/pdf/2207.02158.pdf). Hongzhi Huang, Yu Wang, Qinghua Hu, Ming-Ming Cheng. IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI 2022**). [\[code\]](https://github.com/xyzedd/CSSR) ⭐ 59 | 🐛 4 | 🌐 Python | 📅 2023-12-01.
 * [OpenTAL: Towards Open Set Temporal Action Localization](https://arxiv.org/pdf/2203.05114.pdf). Wentao Bao, Qi Yu, Yu Kong. (**CVPR 2022**). [\[code\]](https://github.com/Cogito2012/OpenTAL) ⭐ 56 | 🐛 2 | 🌐 Python | 📅 2023-09-04.
 * [Difficulty-Aware Simulator for Open Set Recognition](https://arxiv.org/abs/2207.10024). WonJun Moon, Junho Park, Hyun Seok Seong, Cheol-Ho Cho, Jae-Pil Heo. (**ECCV 2022**). [\[code\]](https://github.com/wjun0830/Difficulty-Aware-Simulator) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2023-07-28.
@@ -156,7 +156,7 @@
 
 ##### 2019
 
-* [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[\[code\]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) ⭐ 873 | 🐛 9 | 🌐 Python | 📅 2022-07-16
+* [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[\[code\]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) ⭐ 872 | 🐛 9 | 🌐 Python | 📅 2022-07-16
 * [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [\[code\]](https://github.com/xhp-hust-2018-2011/S-DCNet) ⭐ 134 | 🐛 12 | 🌐 Python | 📅 2023-07-06
 * [Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?](https://arxiv.org/abs/1908.09625v1), Martin Mundt, Iuliia Pliushch, Sagnik Majumder, Visvanathan Ramesh. (**ICCVW, 2019**). [**\[code\]**](https://github.com/MrtnMndt/Deep_Openset_Recognition_through_Uncertainty) ⭐ 94 | 🐛 1 | 🌐 Python | 📅 2022-02-11
 * [Deep Transfer Learning for Multiple Class Novelty Detection](https://arxiv.org/abs/1903.02196), Pramuditha Perera, Vishal M. Patel. (**CVPR, 2019**). [\[code\]](https://github.com/PramuPerera/TransferLearningNovelty) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2019-09-12
@@ -312,10 +312,10 @@
 
 ##### 2019
 
-* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,990 | 🐛 2,008 | 🌐 Jupyter Notebook | 📅 2026-10-15
+* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 38,999 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-22
 * [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**\[code\]**](https://github.com/hendrycks/outlier-exposure) ⭐ 573 | 🐛 5 | 🌐 Python | 📅 2021-10-09
 * [Evidential Deep Learning to Quantify Classification Uncertainty](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html). Murat Sensoy, Lance Kaplan, Melih Kandemir. (**NeurIPS 2019**). [**\[code\]**](https://github.com/dougbrion/pytorch-classification-uncertainty) ⭐ 521 | 🐛 10 | 🌐 Python | 📅 2024-01-02
-* [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**\[code\]**](https://github.com/hendrycks/ss-ood) ⭐ 270 | 🐛 3 | 🌐 Python | 📅 2021-04-29
+* [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**\[code\]**](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
 * [Why ReLU networks yield high-confidence predictions far away from the training data and how to mitigate the problem](https://arxiv.org/abs/1812.05720). Matthias Hein, Maksym Andriushchenko, Julian Bitterwolf. (**CVPR 2019**). [**\[code\]**](https://github.com/max-andr/relu_networks_overconfident) ⭐ 185 | 🐛 0 | 🌐 Python | 📅 2019-07-14
 * [Outlier Exposure with Confidence Control for Out-of-Distribution Detection](https://arxiv.org/abs/1906.03509). Aristotelis-Angelos Papadopoulos, Mohammad Reza Rajati, Nazim Shaikh, Jiamian Wang. (**arXiv, 2019**). [**\[code\]**](https://github.com/nazim1021/OOD-detection-using-OECC) ⭐ 70 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2021-03-13
 * [Do Deep Generative Models Know What They Don't Know?](https://arxiv.org/abs/1810.09136). Eric Nalisnick, Akihiro Matsukawa, Yee Whye Teh, Dilan Gorur, Balaji Lakshminarayanan. (**ICLR, 2019**).
@@ -337,7 +337,7 @@
 
 ## Anomaly Detection
 
-[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,918 | 🐛 10 | 📅 2022-09-20
+[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,919 | 🐛 10 | 📅 2022-09-20
 
 ##### 2021
 
@@ -349,7 +349,7 @@
 
 ##### 2019
 
-* [A Benchmark for Anomaly Segmentation](https://arxiv.org/abs/1911.11132). Dan Hendrycks, Steven Basart, Mantas Mazeika, Mohammadreza Mostajabi, Jacob Steinhardt, Dawn Song. (**arXiv 2019**). [**\[code\]**](https://github.com/hendrycks/anomaly-seg) ⭐ 158 | 🐛 1 | 🌐 Python | 📅 2023-02-02.
+* [A Benchmark for Anomaly Segmentation](https://arxiv.org/abs/1911.11132). Dan Hendrycks, Steven Basart, Mantas Mazeika, Mohammadreza Mostajabi, Jacob Steinhardt, Dawn Song. (**arXiv 2019**). [**\[code\]**](https://github.com/hendrycks/anomaly-seg) ⭐ 159 | 🐛 1 | 🌐 Python | 📅 2023-02-02.
 
 ##### 2018
 
@@ -400,16 +400,16 @@
 
 ##### 2022
 
-* [Opening Up Open-World Tracking](https://arxiv.org/abs/2104.11221), Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (**CVPR 2022**). [**\[code\]**](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/OpenWorldTracking-Official/Readme.md) ⭐ 1,267 | 🐛 83 | 🌐 Python | 📅 2024-07-03
+* [Opening Up Open-World Tracking](https://arxiv.org/abs/2104.11221), Yang Liu, Idil Esen Zulfikar, Jonathon Luiten, Achal Dave, Deva Ramanan, Bastian Leibe, Aljoša Ošep, Laura Leal-Taixé. (**CVPR 2022**). [**\[code\]**](https://github.com/JonathonLuiten/TrackEval/blob/master/docs/OpenWorldTracking-Official/Readme.md) ⭐ 1,269 | 🐛 83 | 🌐 Python | 📅 2024-07-03
 * [OW-DETR: Open-world Detection Transformer](http://arxiv.org/abs/2112.01513), Akshita Gupta, Sanath Narayan, K J Joseph, Salman Khan, Fahad Shahbaz Khan, and Mubarak Shah. (**CVPR 2022**). [**\[code\]**](https://github.com/akshitac8/OW-DETR) ⭐ 263 | 🐛 36 | 🌐 Python | 📅 2023-04-04
 
 ##### 2021
 
-* [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603), K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian. (**CVPR 2021**). [**\[code\]**](https://github.com/JosephKJ/OWOD) ⭐ 1,073 | 🐛 30 | 🌐 Python | 📅 2022-12-19
+* [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603), K J Joseph, Salman Khan, Fahad Shahbaz Khan, Vineeth N Balasubramanian. (**CVPR 2021**). [**\[code\]**](https://github.com/JosephKJ/OWOD) ⭐ 1,072 | 🐛 30 | 🌐 Python | 📅 2022-12-19
 
-* [A Unified Objective for Novel Class Discovery](https://arxiv.org/abs/2108.08536), Enrico Fini, Enver Sangineto, Stéphane Lathuilière, Zhun Zhong, Moin Nabi, Elisa Ricci. (**ICCV 2021**). [**\[code\]**](https://github.com/DonkeyShot21/UNO) ⭐ 159 | 🐛 1 | 🌐 Python | 📅 2022-03-22
+* [A Unified Objective for Novel Class Discovery](https://arxiv.org/abs/2108.08536), Enrico Fini, Enver Sangineto, Stéphane Lathuilière, Zhun Zhong, Moin Nabi, Elisa Ricci. (**ICCV 2021**). [**\[code\]**](https://github.com/DonkeyShot21/UNO) ⭐ 158 | 🐛 1 | 🌐 Python | 📅 2022-03-22
 
-* [Neighborhood Contrastive Learning for Novel Class Discovery](https://arxiv.org/abs/2106.10731), Zhun Zhong, Enrico Fini, Subhankar Roy, Zhiming Luo, Elisa Ricci, Nicu Sebe. (**CVPR 2021**). [**\[code\]**](https://github.com/zhunzhong07/NCL) ⭐ 77 | 🐛 3 | 🌐 Python | 📅 2022-12-09
+* [Neighborhood Contrastive Learning for Novel Class Discovery](https://arxiv.org/abs/2106.10731), Zhun Zhong, Enrico Fini, Subhankar Roy, Zhiming Luo, Elisa Ricci, Nicu Sebe. (**CVPR 2021**). [**\[code\]**](https://github.com/zhunzhong07/NCL) ⭐ 76 | 🐛 3 | 🌐 Python | 📅 2022-12-09
 
 * [OpenMix: Reviving Known Knowledge for Discovering Novel Visual Categories in An Open World](https://arxiv.org/abs/2004.05551), Zhun Zhong, Linchao Zhu, Zhiming Luo, Shaozi Li, Yi Yang, Nicu Sebe. (**CVPR 2021**).
 
@@ -467,4 +467,4 @@ Contributions are most welcome, if you have any suggestions and improvements, pl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

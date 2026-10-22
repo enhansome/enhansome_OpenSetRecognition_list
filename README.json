@@ -74,7 +74,7 @@
                         "open_issues": 5,
                         "owner": "sgvaze",
                         "repo": "osr_closed_set_all_you_need",
-                        "stars": 303,
+                        "stars": 302,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
@@ -472,7 +472,7 @@
                         "open_issues": 9,
                         "owner": "zhmiao",
                         "repo": "OpenLongTailRecognition-OLTR",
-                        "stars": 873,
+                        "stars": 872,
                         "topics": [
                           "computer-vision",
                           "cvpr2019",
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-15T02:18:00Z",
-                    "open_issues": 2008,
+                    "last_commit": "2026-10-22T02:02:42Z",
+                    "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 38990,
+                    "stars": 38999,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1409,7 +1409,7 @@
                     "open_issues": 3,
                     "owner": "hendrycks",
                     "repo": "ss-ood",
-                    "stars": 270,
+                    "stars": 269,
                     "topics": [
                       "ml-safety",
                       "out-of-distribution-detection",
@@ -1599,7 +1599,7 @@
                 "open_issues": 10,
                 "owner": "hoya012",
                 "repo": "awesome-anomaly-detection",
-                "stars": 2918,
+                "stars": 2919,
                 "topics": [
                   "anomaly",
                   "anomaly-detection",
@@ -1660,7 +1660,7 @@
                     "open_issues": 1,
                     "owner": "hendrycks",
                     "repo": "anomaly-seg",
-                    "stars": 158,
+                    "stars": 159,
                     "topics": [
                       "anomaly-detection",
                       "carla-simulator",
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1267,
+                    "stars": 1269,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1893,7 +1893,7 @@
                     "open_issues": 30,
                     "owner": "JosephKJ",
                     "repo": "OWOD",
-                    "stars": 1073,
+                    "stars": 1072,
                     "topics": [
                       "continual-learning",
                       "contrastive-learning",
@@ -1924,7 +1924,7 @@
                     "open_issues": 1,
                     "owner": "DonkeyShot21",
                     "repo": "UNO",
-                    "stars": 159,
+                    "stars": 158,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1945,7 +1945,7 @@
                     "open_issues": 3,
                     "owner": "zhunzhong07",
                     "repo": "NCL",
-                    "stars": 77,
+                    "stars": 76,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:51:09.727Z",
+    "last_updated": "2026-10-22T06:54:31.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
