@@ -472,7 +472,7 @@
                         "open_issues": 9,
                         "owner": "zhmiao",
                         "repo": "OpenLongTailRecognition-OLTR",
-                        "stars": 872,
+                        "stars": 873,
                         "topics": [
                           "computer-vision",
                           "cvpr2019",
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-23T00:52:55Z",
+                    "last_commit": "2026-10-23T21:57:07Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39011,
+                    "stars": 39015,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1269,
+                    "stars": 1270,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T06:47:59.813Z",
+    "last_updated": "2026-10-24T06:43:41.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
