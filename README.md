@@ -1,6 +1,6 @@
 # Awesome Open Set Recognition list with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,301 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 525,899 | 🐛 105 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,210 | 🐛 2 | 📅 2024-03-01
 ![](https://img.shields.io/github/license/iCGY96/awesome_OpenSetRecognition_list)
 [![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,210 | 🐛 2 | 📅 2024-03-01
@@ -295,7 +295,7 @@
 * [Deep Evidential Regression](https://arxiv.org/abs/1910.02600), Alexander Amini, Wilko Schwarting, Ava Soleimany, Daniela Rus. (**NeurIPS 2020**). [**\[code\]**](https://github.com/aamini/evidential-deep-learning) ⭐ 529 | 🐛 17 | 🌐 Python | 📅 2021-08-31
 * [The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization](https://arxiv.org/abs/2006.16241v1). Dan Hendrycks, Steven Basart, Norman Mu, Saurav Kadavath, Frank Wang, Evan Dorundo, Rahul Desai, Tyler Zhu, Samyak Parajuli, Mike Guo, Dawn Song, Jacob Steinhardt, Justin Gilmer. (**ArXiv 2020**). [**\[code\]**](https://github.com/hendrycks/imagenet-r) ⭐ 286 | 🐛 2 | 🌐 Python | 📅 2021-07-23
 * [CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances](https://arxiv.org/abs/2007.08176), Jihoon Tack, Sangwoo Mo, Jongheon Jeong, Jinwoo Shin. (**NeurIPS 2020**). [**\[code\]**](https://github.com/alinlab/CSI) ⭐ 284 | 🐛 12 | 🌐 Python | 📅 2023-10-19.
-* [Feature Space Singularity for Out-of-Distribution Detection](https://arxiv.org/abs/2011.14654v2), Haiwen Huang, Zhihan Li, Lulu Wang, Sishuo Chen, Bin Dong, Xinyu Zhou. (**AAAIW 2020**). [**\[code\]**](https://github.com/megvii-research/FSSD_OoD_Detection) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2021-02-15
+* [Feature Space Singularity for Out-of-Distribution Detection](https://arxiv.org/abs/2011.14654v2), Haiwen Huang, Zhihan Li, Lulu Wang, Sishuo Chen, Bin Dong, Xinyu Zhou. (**AAAIW 2020**). [**\[code\]**](https://github.com/megvii-research/FSSD_OoD_Detection) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2021-02-15
 * [Robust Out-of-distribution Detection for Neural Networks](https://arxiv.org/abs/2003.09711), Jiefeng Chen, Yixuan Li, Xi Wu, Yingyu Liang, Somesh Jha. (**arXiv 2020**) [\[code\]](https://github.com/jfc43/robust-ood-detection) ⭐ 73 | 🐛 3 | 🌐 Python | 📅 2022-04-12
 * [Background Data Resampling for Outlier-Aware Classification](https://openaccess.thecvf.com/content_CVPR_2020/html/Li_Background_Data_Resampling_for_Outlier-Aware_Classification_CVPR_2020_paper.html), Yi Li, Nuno Vasconcelos. (**CVPR 2020**) [\[code\]](https://github.com/JerryYLi/bg-resample-ood) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2020-03-27
 * [Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models](https://openreview.net/forum?id=SyxIWpVYvr). Joan Serrà, David Álvarez, Vicenç Gómez, Olga Slizovskaia, José F. Núñez, Jordi Luque. (**ICLR, 2020**)
@@ -312,7 +312,7 @@
 
 ##### 2019
 
-* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 39,037 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-26
+* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 39,044 | 🐛 2,024 | 🌐 Jupyter Notebook | 📅 2026-10-27
 * [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**\[code\]**](https://github.com/hendrycks/outlier-exposure) ⭐ 573 | 🐛 5 | 🌐 Python | 📅 2021-10-09
 * [Evidential Deep Learning to Quantify Classification Uncertainty](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html). Murat Sensoy, Lance Kaplan, Melih Kandemir. (**NeurIPS 2019**). [**\[code\]**](https://github.com/dougbrion/pytorch-classification-uncertainty) ⭐ 521 | 🐛 10 | 🌐 Python | 📅 2024-01-02
 * [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**\[code\]**](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
@@ -337,7 +337,7 @@
 
 ## Anomaly Detection
 
-[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,920 | 🐛 10 | 📅 2022-09-20
+[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,919 | 🐛 10 | 📅 2022-09-20
 
 ##### 2021
 
@@ -467,4 +467,4 @@ Contributions are most welcome, if you have any suggestions and improvements, pl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
