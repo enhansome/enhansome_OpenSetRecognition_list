@@ -74,7 +74,7 @@
                         "open_issues": 5,
                         "owner": "sgvaze",
                         "repo": "osr_closed_set_all_you_need",
-                        "stars": 302,
+                        "stars": 303,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1069,7 +1069,7 @@
                     "open_issues": 4,
                     "owner": "selflein",
                     "repo": "MG-GAN",
-                    "stars": 55,
+                    "stars": 54,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-28T13:44:13Z",
+                    "last_commit": "2026-10-29T16:49:00Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39053,
+                    "stars": 39061,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:53:08.810Z",
+    "last_updated": "2026-10-30T07:55:51.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
