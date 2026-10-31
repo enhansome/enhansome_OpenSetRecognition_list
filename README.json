@@ -191,7 +191,7 @@
                         "open_issues": 1,
                         "owner": "antoalli",
                         "repo": "3D_OS",
-                        "stars": 31,
+                        "stars": 32,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-29T16:49:00Z",
+                    "last_commit": "2026-10-30T23:22:33Z",
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39061,
+                    "stars": 39066,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1496,7 +1496,7 @@
                     "open_issues": 16,
                     "owner": "facebookresearch",
                     "repo": "odin",
-                    "stars": 545,
+                    "stars": 546,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:55:51.972Z",
+    "last_updated": "2026-10-31T07:50:05.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
