@@ -1243,7 +1243,7 @@
                     "open_issues": 1,
                     "owner": "megvii-research",
                     "repo": "FSSD_OoD_Detection",
-                    "stars": 80,
+                    "stars": 79,
                     "topics": [
                       "ai-safety",
                       "anomaly",
@@ -1323,7 +1323,7 @@
                     "open_issues": 2009,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39099,
+                    "stars": 39106,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1632,7 +1632,7 @@
                     "open_issues": 10,
                     "owner": "rohban-lab",
                     "repo": "Knowledge_Distillation_AD",
-                    "stars": 91,
+                    "stars": 92,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1271,
+                    "stars": 1272,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T08:52:53.173Z",
+    "last_updated": "2026-11-04T08:22:51.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
