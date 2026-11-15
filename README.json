@@ -593,7 +593,7 @@
                         "open_issues": 2,
                         "owner": "Vastlab",
                         "repo": "Reducing-Network-Agnostophobia",
-                        "stars": 71,
+                        "stars": 72,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-13T17:37:12Z",
+                    "last_commit": "2026-11-14T12:36:20Z",
                     "open_issues": 2013,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39170,
+                    "stars": 39178,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T08:23:52.487Z",
+    "last_updated": "2026-11-15T08:40:39.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
@@ -2005,7 +2005,7 @@
       "open_issues": 2,
       "owner": "gary23ai",
       "repo": "awesome_OpenSetRecognition_list",
-      "stars": 1211,
+      "stars": 1212,
       "topics": [
         "awesome-list",
         "open-set",
