@@ -1,13 +1,13 @@
 # Awesome Open Set Recognition list with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,209 | 🐛 104 | 📅 2026-09-02
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,212 | 🐛 2 | 📅 2024-03-01
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,700 | 🐛 103 | 📅 2026-09-02
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,211 | 🐛 2 | 📅 2024-03-01
 ![](https://img.shields.io/github/license/iCGY96/awesome_OpenSetRecognition_list)
-[![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,212 | 🐛 2 | 📅 2024-03-01
-[![GitHub watchers](https://img.shields.io/github/watchers/iCGY96/awesome_OpenSetRecognition_list?color=yellow\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list) ⭐ 1,212 | 🐛 2 | 📅 2024-03-01
-[![GitHub forks](https://img.shields.io/github/forks/iCGY96/awesome_OpenSetRecognition_list?color=red\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/watchers) ⭐ 1,212 | 🐛 2 | 📅 2024-03-01
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/iCGY96/awesome_OpenSetRecognition_list?color=green\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/network/members) ⭐ 1,212 | 🐛 2 | 📅 2024-03-01
-[![GitHub Contributors](https://img.shields.io/github/contributors/iCGY96/awesome_OpenSetRecognition_list?color=green\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/network/members) ⭐ 1,212 | 🐛 2 | 📅 2024-03-01
+[![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,211 | 🐛 2 | 📅 2024-03-01
+[![GitHub watchers](https://img.shields.io/github/watchers/iCGY96/awesome_OpenSetRecognition_list?color=yellow\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list) ⭐ 1,211 | 🐛 2 | 📅 2024-03-01
+[![GitHub forks](https://img.shields.io/github/forks/iCGY96/awesome_OpenSetRecognition_list?color=red\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/watchers) ⭐ 1,211 | 🐛 2 | 📅 2024-03-01
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/iCGY96/awesome_OpenSetRecognition_list?color=green\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/network/members) ⭐ 1,211 | 🐛 2 | 📅 2024-03-01
+[![GitHub Contributors](https://img.shields.io/github/contributors/iCGY96/awesome_OpenSetRecognition_list?color=green\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/network/members) ⭐ 1,211 | 🐛 2 | 📅 2024-03-01
 
 > A curated list of papers & ressources linked to open set recognition, out-of-distribution, open set domain adaptation, and open world recognition
 
@@ -312,7 +312,7 @@
 
 ##### 2019
 
-* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 39,227 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-19
+* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 39,239 | 🐛 2,013 | 🌐 Jupyter Notebook | 📅 2026-11-19
 * [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**\[code\]**](https://github.com/hendrycks/outlier-exposure) ⭐ 573 | 🐛 5 | 🌐 Python | 📅 2021-10-09
 * [Evidential Deep Learning to Quantify Classification Uncertainty](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html). Murat Sensoy, Lance Kaplan, Melih Kandemir. (**NeurIPS 2019**). [**\[code\]**](https://github.com/dougbrion/pytorch-classification-uncertainty) ⭐ 522 | 🐛 10 | 🌐 Python | 📅 2024-01-02
 * [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**\[code\]**](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
@@ -324,7 +324,7 @@
 ##### 2018
 
 * [Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690). Shiyu Liang, Yixuan Li, R. Srikant. (**ICLR, 2018**). [**\[code\]**](https://github.com/facebookresearch/odin) ⚠️ Archived.
-* [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888). Kimin Lee, Kibok Lee, Honglak Lee, Jinwoo Shin. (**NeurIPS, 2018**). [**\[code\]**](https://github.com/pokaxpoka/deep_Mahalanobis_detector) ⭐ 357 | 🐛 17 | 🌐 Python | 📅 2019-08-13
+* [A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks](https://arxiv.org/abs/1807.03888). Kimin Lee, Kibok Lee, Honglak Lee, Jinwoo Shin. (**NeurIPS, 2018**). [**\[code\]**](https://github.com/pokaxpoka/deep_Mahalanobis_detector) ⭐ 356 | 🐛 17 | 🌐 Python | 📅 2019-08-13
 * [Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples](https://arxiv.org/abs/1711.09325). Kimin Lee, Honglak Lee, Kibok Lee, Jinwoo Shin. (**ICLR, 2018**). [**\[code\]**](https://github.com/alinlab/Confident_classifier) ⭐ 182 | 🐛 6 | 🌐 Python | 📅 2020-04-08
 * [WAIC, but Why? Generative Ensembles for Robust Anomaly Detection](https://arxiv.org/abs/1810.01392). Hyunsun Choi, Eric Jang, Alexander A. Alemi. (**arXiv, 2018**).
 * [Predictive uncertainty estimation via prior networks](https://papers.nips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html). Andrey Malinin, Mark Gales. (**NeurIPS, 2018**).
@@ -337,7 +337,7 @@
 
 ## Anomaly Detection
 
-[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,924 | 🐛 10 | 📅 2022-09-20
+[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,923 | 🐛 10 | 📅 2022-09-20
 
 ##### 2021
 
@@ -455,7 +455,7 @@ To the extent possible under law, [Guangyao Chen](https://github.com/iCGY96/) ha
 
 # Contributing
 
-Please see [CONTRIBUTING](https://github.com/iCGY96/awesome_OpenSet_list/blob/master/contributing.md) ⭐ 1,212 | 🐛 2 | 📅 2024-03-01 for details.
+Please see [CONTRIBUTING](https://github.com/iCGY96/awesome_OpenSet_list/blob/master/contributing.md) ⭐ 1,211 | 🐛 2 | 📅 2024-03-01 for details.
 
 # Contributions
 
@@ -467,4 +467,4 @@ Contributions are most welcome, if you have any suggestions and improvements, pl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
