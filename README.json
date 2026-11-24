@@ -444,7 +444,7 @@
                         "open_issues": 2,
                         "owner": "Vastlab",
                         "repo": "Elephant-of-object-detection",
-                        "stars": 29,
+                        "stars": 30,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1319,11 +1319,11 @@
                     "id": 151619717,
                     "language": "Jupyter Notebook",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-21T15:37:23Z",
+                    "last_commit": "2026-11-24T04:17:47Z",
                     "open_issues": 2014,
                     "owner": "google-research",
                     "repo": "google-research",
-                    "stars": 39263,
+                    "stars": 39275,
                     "topics": [
                       "ai",
                       "machine-learning",
@@ -1566,7 +1566,7 @@
                     "open_issues": 2,
                     "owner": "hendrycks",
                     "repo": "error-detection",
-                    "stars": 235,
+                    "stars": 236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1839,7 +1839,7 @@
                     "open_issues": 83,
                     "owner": "JonathonLuiten",
                     "repo": "TrackEval",
-                    "stars": 1281,
+                    "stars": 1282,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T13:37:58.290Z"
@@ -1993,7 +1993,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T10:03:52.917Z",
+    "last_updated": "2026-11-24T11:52:33.324Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of papers & resources linked to open set recognition, out-of-distribution, open set domain adaptation and open world recognition",
