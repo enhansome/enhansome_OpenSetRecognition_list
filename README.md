@@ -1,6 +1,6 @@
 # Awesome Open Set Recognition list with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,669 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 544,116 | 🐛 103 | 📅 2026-09-02
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/graphs/commit-activity) ⭐ 1,210 | 🐛 2 | 📅 2024-03-01
 ![](https://img.shields.io/github/license/iCGY96/awesome_OpenSetRecognition_list)
 [![GitHub stars](https://img.shields.io/github/stars/iCGY96/awesome_OpenSetRecognition_list?color=blue\&style=plastic)](https://github.com/iCGY96/awesome_OpenSetRecognition_list/stargazers) ⭐ 1,210 | 🐛 2 | 📅 2024-03-01
@@ -157,7 +157,7 @@
 ##### 2019
 
 * [Large-Scale Long-Tailed Recognition in an Open World](https://arxiv.org/abs/1904.05160v1), ZiweiLiu, ZhongqiMiao, XiaohangZhan, et al. (**CVPR, Oral, 2019**).[\[code\]](https://github.com/zhmiao/OpenLongTailRecognition-OLTR) ⭐ 873 | 🐛 9 | 🌐 Python | 📅 2022-07-16
-* [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [\[code\]](https://github.com/xhp-hust-2018-2011/S-DCNet) ⭐ 134 | 🐛 12 | 🌐 Python | 📅 2023-07-06
+* [From Open Set to Closed Set: Counting Objects by Spatial Divide-and-Conquer](https://arxiv.org/abs/1908.06473), Haipeng Xiong, Hao Lu, Chengxin Liu, Liang Liu, Zhiguo Cao, Chunhua Shen. (**ICCV, 2019**). [\[code\]](https://github.com/xhp-hust-2018-2011/S-DCNet) ⭐ 133 | 🐛 12 | 🌐 Python | 📅 2023-07-06
 * [Open Set Recognition Through Deep Neural Network Uncertainty: Does Out-of-Distribution Detection Require Generative Classifiers?](https://arxiv.org/abs/1908.09625v1), Martin Mundt, Iuliia Pliushch, Sagnik Majumder, Visvanathan Ramesh. (**ICCVW, 2019**). [**\[code\]**](https://github.com/MrtnMndt/Deep_Openset_Recognition_through_Uncertainty) ⭐ 94 | 🐛 1 | 🌐 Python | 📅 2022-02-11
 * [Deep Transfer Learning for Multiple Class Novelty Detection](https://arxiv.org/abs/1903.02196), Pramuditha Perera, Vishal M. Patel. (**CVPR, 2019**). [\[code\]](https://github.com/PramuPerera/TransferLearningNovelty) ⭐ 23 | 🐛 1 | 🌐 Python | 📅 2019-09-12
 * [The Importance of Metric Learning for Robotic Vision: Open Set Recognition and Active Learning](https://arxiv.org/abs/1902.10363), Benjamin J. Meyer, Tom Drummond. (**ICRA, 2019**).
@@ -312,7 +312,7 @@
 
 ##### 2019
 
-* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 39,547 | 🐛 2,023 | 🌐 Jupyter Notebook | 📅 2026-11-26
+* [Likelihood Ratios for Out-of-Distribution Detection](https://arxiv.org/abs/1906.02845). Jie Ren, Peter J. Liu, Emily Fertig, Jasper Snoek, Ryan Poplin, Mark A. DePristo, Joshua V. Dillon, Balaji Lakshminarayanan. (**NeurIPS, 2019**). [**\[code\]**](https://github.com/google-research/google-research/tree/master/genomics_ood) ⭐ 39,572 | 🐛 2,023 | 🌐 Jupyter Notebook | 📅 2026-11-27
 * [Deep Anomaly Detection with Outlier Exposure](https://arxiv.org/abs/1812.04606), Dan Hendrycks, Mantas Mazeika, Thomas Dietterich. (**ICLR, 2019**). [**\[code\]**](https://github.com/hendrycks/outlier-exposure) ⭐ 573 | 🐛 5 | 🌐 Python | 📅 2021-10-09
 * [Evidential Deep Learning to Quantify Classification Uncertainty](https://papers.nips.cc/paper/2018/hash/a981f2b708044d6fb4a71a1463242520-Abstract.html). Murat Sensoy, Lance Kaplan, Melih Kandemir. (**NeurIPS 2019**). [**\[code\]**](https://github.com/dougbrion/pytorch-classification-uncertainty) ⭐ 522 | 🐛 10 | 🌐 Python | 📅 2024-01-02
 * [Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty](https://arxiv.org/abs/1906.12340). Dan Hendrycks, Mantas Mazeika, Saurav Kadavath, Dawn Song. (**NeurIPS 2019**). [**\[code\]**](https://github.com/hendrycks/ss-ood) ⭐ 269 | 🐛 3 | 🌐 Python | 📅 2021-04-29
@@ -337,7 +337,7 @@
 
 ## Anomaly Detection
 
-[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,926 | 🐛 10 | 📅 2022-09-20
+[need to survey more..](https://github.com/hoya012/awesome-anomaly-detection) ⭐ 2,925 | 🐛 10 | 📅 2022-09-20
 
 ##### 2021
 
@@ -349,7 +349,7 @@
 
 ##### 2019
 
-* [A Benchmark for Anomaly Segmentation](https://arxiv.org/abs/1911.11132). Dan Hendrycks, Steven Basart, Mantas Mazeika, Mohammadreza Mostajabi, Jacob Steinhardt, Dawn Song. (**arXiv 2019**). [**\[code\]**](https://github.com/hendrycks/anomaly-seg) ⭐ 159 | 🐛 1 | 🌐 Python | 📅 2023-02-02.
+* [A Benchmark for Anomaly Segmentation](https://arxiv.org/abs/1911.11132). Dan Hendrycks, Steven Basart, Mantas Mazeika, Mohammadreza Mostajabi, Jacob Steinhardt, Dawn Song. (**arXiv 2019**). [**\[code\]**](https://github.com/hendrycks/anomaly-seg) ⭐ 160 | 🐛 1 | 🌐 Python | 📅 2023-02-02.
 
 ##### 2018
 
@@ -467,4 +467,4 @@ Contributions are most welcome, if you have any suggestions and improvements, pl
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
